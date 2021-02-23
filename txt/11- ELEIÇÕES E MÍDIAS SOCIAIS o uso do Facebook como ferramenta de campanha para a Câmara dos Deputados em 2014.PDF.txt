@@ -1,0 +1,4531 @@
+Felipe Murta Pinheiro 
+
+Eleições e mídias sociais: 
+
+O uso do Facebook como ferramenta de 
+campanha para a Câmara dos Deputados em 
+2014  
+
+Dissertação de Mestrado 
+
+Dissertação a ser apresentada ao Programa de Pós- 
+graduação em Comunicação Social da PUC-Rio 
+como requisito parcial para obtenção do grau de 
+Mestre em Comunicação Social. 
+
+Orientador: Prof. Arthur Ituassu 
+
+Rio de Janeiro 
+Abril de 2016 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Felipe Murta Pinheiro 
+
+Eleições e Mídias Sociais: 
+
+ O uso do Facebook como ferramenta de 
+campanha para a Câmara dos Deputados em 
+2014  
+
+Dissertação a ser apresentada ao Programa de 
+Pós-graduação em Comunicação Social da  
+PUC-Rio  como  requisito parcial  para  
+obtenção  do grau de Mestre em Comunicação 
+Social.  
+
+Prof. Arthur Cezar de Araújo Ituassu Filho 
+
+Orientador  
+Departamento de Comunicação Social – PUC- Rio 
+
+Prof. Camilo de Oliveira Aggio 
+
+ Departamento de Ciências Políticas – UFBA 
+
+ Departamento de Comunicação Social – PUC- Rio 
+
+Prof. Fernando de Almeida Sá 
+
+Vice-Decana de Pós-Graduação do Centro de 
+Ciências Sociais – PUC-Rio 
+
+Profª. Mônica Herz 
+
+Rio de Janeiro, 08 de abril de 2016 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Todos os direitos reservados. É proibida a reprodução 
+total ou parcial do trabalho sem autorização da 
+universidade, do autor e do orientador. 
+
+Felipe Murta Pinheiro 
+
+Graduou-se em Comunicação Social na Pontifícia 
+Universidade Católica do Rio de Janeiro (PUC-Rio) 
+em 2007. Exerce atualmente o cargo de CEO da 
+startup DigiCampanha. 
+
+Ficha Catalográfica 
+
+Pinheiro, Felipe Murta 
+
+Eleições e  mídias sociais: o uso do Facebook 
+como ferramenta de campanha para a Câmara 
+dos Deputados em 2014 
+/ Felipe Murta; 
+orientador: Arthur Cezar de Araújo Ituassu Filho. – 
+2016. 
+
+      80 f.; 30 cm 
+Dissertação 
+(mestrado) 
+– 
+Pontifícia 
+Universidade Católica do Rio de Janeiro, 
+Departamento de Comunicação Social, 2016. 
+
+ Inclui bibliografia 
+
+1. Comunicação Política nas Mídias Sociais – 
+Teses. 2. Eleições e Redes Sociais.  3.  Facebook. 
+I. 
+Ituassu, Arthur. 
+II. Pontifícia Universidade 
+Católica do Rio de Janeiro. Departamento de 
+Comunicação Social. III. Título. 
+
+CDD: 302.23
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agradecimentos 
+
+Ao professor Arthur Ituassu, que antes de orientador é um grande amigo e 
+incentivador. Muito obrigado por exigir o máximo de mim sem nunca desistir! 
+
+À mestre Letícia Capone, companheira de todas as aulas e fonte de inspiração 
+acadêmica. Sem você não haveria dissertação! 
+
+Aos meus pais, Pedro Paulo e Tânia, à minha irmã, Jojo e ao meu filho, Gael, por 
+todo o suporte, paciência e apoio durante esses anos de iniciação acadêmica. 
+
+À Nathalia Schuch, por todo amor, carinho, compreensão e companhia em cada 
+uma das longas noites de estudo. 
+
+À Roberta La Rovere, grande amiga, parceira e sócia, pelo conjunto da obra. 
+
+Ao COMP e cada um dos seus integrantes por fazer da segunda-feira o melhor 
+dia da semana. 
+
+Ao CNPQ e à PUC-Rio, pelos suportes concedidos, sem os quais este trabalho 
+não poderia ter sido realizado. 
+
+A todos os professores do Departamento de Comunicação Social da PUC-Rio, 
+verdadeiros mestres, que, desde a graduação, têm enorme importância na minha 
+formação. 
+
+A todos os funcionários do Departamento de Comunicação Social da PUC-Rio 
+pelos ensinamentos e ajuda, especialmente à Marise Lira, pelos incontáveis 
+socorros. 
+
+Ao CEADD pela rede de ensinamentos e compartilhamento de conhecimento. 
+
+Aos professores que participaram da Comissão examinadora. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resumo 
+
+Pinheiro, Felipe Murta; Filho, Arthur Arthur Cezar de Araújo Ituassu.   
+E le ições e M íd ias Soc ia is: O uso do Facebook como ferramenta 
+de campanha para a Câmara dos Deputados em 2014 . Rio de 
+Janeiro, 2016. 80p. Dissertação de Mestrado – Departamento de 
+Comunicação Social, Pontifícia Universidade Católica do Rio de Janeiro. 
+
+Esta é uma pesquisa inserida no campo da Internet e Democracia que 
+propõe analisar os impactos da comunicação política nas redes sociais durante 
+campanhas eleitorais no Brasil ao lançar um olhar empírico e conceitual sobre a 
+forma como políticos em campanha utilizam o Facebook, o impacto viral de suas 
+publicações e o uso da comunicação política digital como instrumento de 
+campanha nas eleições de 2014. Para tal, é objeto específico deste trabalho 
+observar o conteúdo publicado nas “fanpages” de oito candidatos à reeleição como 
+deputado federal pelo Rio de Janeiro nas últimas eleições durante os 33 últimos dias 
+de propaganda eleitoral na web, de 1 de setembro a 3 de outubro de 2014. Com base 
+
+em métodos qualitativos e quantitativos aplicados sobre as 840 publicações 
+
+coletadas nos 8 perfis, ficou claro observar que: a) não há relação entre a incidência 
+de postagens e número de ações de interação; b) há relações significativas entre os 
+temas "plataforma de campanha" e "registro de atividades" com o número de 
+compartilhamentos e comentários; c) no ambiente eleitoral contemporâneo, um 
+candidato com muitos votos tende a ser, também, eficiente nas mídias sociais. 
+
+Palavras-chave 
+
+Internet; Eleições; Democracia Digital.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstract 
+
+Pinheiro, Felipe Murta; Filho, Arthur Arthur Cezar de Araújo Ituassu 
+(Advisor). E lec t ions and Soc ia l Med ia: The Use of Facebook as a 
+d ig i ta l campa ign too l on the run for the Brazi l ian Chamber of 
+Depu t ies in 2014 . Rio de Janeiro, 2016. 80p. MSc. Dissertation – 
+Departament of Social Communication, Pontifícia Universidade Católica 
+do Rio de Janeiro. 
+
+This is a research in the field of Internet and Democracy which aims to 
+analyze the impact of political communication in social media during election 
+campaigns in Brazil launching a conceptual and empirical view about how 
+politicians in campaign are using Facebook, the viral impact of their content and 
+the digital political communication as a campaign tool in 2014 elections 
+Therefore, the object of this research intend to observe all the publishers at eight 
+candidates for re-election as a federal deputy for Rio de Janeiro “fanpages”on 
+Facebook at 33 days. Based on qualitative and quantitative methods applied on 
+840 publications, collected in 8 different profiles, it’s easy to observer that: a) 
+
+there’s no relationship between the incidence of posts and the number of interactive 
+activities; b) There is a relation between “campaign platform” and “activity log " 
+posts and the possibility of shares and comments  c) in a contemporary electoral 
+environment, a candidate may tend to be more efficient on the web, especially on 
+social media to be successful in terms of votes. 
+
+Keywords 
+
+Internet; Elections; Online Campaigns; Digital Democracy. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sumário 
+
+1 Introdução 
+
+2 Comunicação, internet e eleições 
+2.1 Internet e eleições: um panorama geral 
+2.2 A trajetória das campanhas eleitorais na web 
+
+3  Mídias sociais e eleições 
+3.1 O uso das ferramentas digitais por políticos em pleito eleitoral 
+3.2 A trajetória do uso de mídias sociais em contexto eleitoral 
+3.3 O crescimento do Facebook na comunicação política 
+
+4 Metodologia, empiria e resultados 
+4.1 Metodologia 
+4.2 Análise e Resultados 
+
+5 Considerações finais 
+
+6 Referências bibliográficas 
+
+9 
+
+15 
+15 
+24 
+
+32 
+32 
+41 
+47 
+
+51 
+51 
+60 
+
+71 
+
+75 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lista de Gráficos e Tabelas 
+
+Gráfico 1. Uso de ferramentas digitais pelos candidatos às 
+eleições  
+Gráfico 2: - Eficiência comparada 
+Gráfico 3: Interação x postagem 
+Gráfico 4 - Frequencia de categorias por candidato 
+Gráfico 5 - Relação entre Interação e número de votos 
+
+Tabela 1: correlação entre variável "interações" e o número e 
+tipo de postagem.  
+Tabela 2: Total de postagens e média de interações 
+Tabela 3: Relação estatística sem Jair Bolsonaro 
+Tabela 4: Temas com mais ações de interação 
+Tabela 5: Correlação entre temas e interação 
+Tabela 6: Correlação entre curtidas e as ações de interação 
+Tabela 7 - Correlação entre os números de curtidores e votos 
+Tabela 8 - Correlação entre os números de interação e de votos 
+
+42 
+62 
+63 
+65 
+69 
+
+61 
+62 
+64 
+66 
+67 
+67 
+68 
+68 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+1 
+Introdução 
+
+A maciça participação de políticos em perfis nas mídias digitais, fenômeno 
+recente e facilmente identificável principalmente durante períodos eleitorais, e a 
+instantânea popularidade que alguns alcançaram no ambiente online têm levado 
+muitos estudiosos a sugerir que uma nova geração de ferramentas da internet – em 
+particular as redes sociais – está permitido que políticos comuniquem-se diretamente 
+com os cidadãos 
+inseridos no ambiente online (GOLBECK et. al, 2010; 
+GUEORGUIEVA, 2008; NIELSEN, VACCARI, 2013). E é justamente esse 
+fenômeno que esta pesquisa, inserida no campo da internet e democracia, propõe 
+analisar: os impactos da comunicação política nas redes sociais durante campanhas 
+eleitorais no regime democrático brasileiro. Dessa forma, este trabalho lança um olhar 
+tanto conceitual quanto empírico sobre a forma como políticos brasileiros em 
+campanha utilizam suas mídias sociais - mais precisamente o Facebook –, o impacto 
+viral de suas publicações e a comunicação digital como instrumento de propaganda 
+política nas eleições de 2014. Mais precisamente, a ideia é observar indícios sobre a 
+relevância da visibilidade e publicidade do discurso político nas redes sociais – 
+Facebook – e assim testar hipóteses embrionárias para outros projetos mais 
+avançados.  
+Para tanto, foi feita aqui uma análise sobre o conteúdo digital publicado nas 
+fanpages, perfis profissionais no Facebook, de oito candidatos à reeleição como 
+deputado federal pelo Rio de Janeiro nas últimas eleições – Alessandro Molon, Chico 
+Alencar, Eduardo Cunha, Jair Bolsonaro, Jean Wyllys, Leonardo Picciani, Pedro 
+Paulo e Rodrigo Maia – durante os trinta e três últimos dias permitidos por lei de 
+propaganda eleitoral na Web, i.e, de 1 de setembro a 3 de outubro de 2014. Não à toa, 
+é objeto específico desta pesquisa 
+todas as postagens produzidas pelos 
+candidatos/assessoria de comunicação no Facebook e compreendidas no lapso 
+temporal proposto acima, assim como seus respectivos potenciais de interação. Foram 
+coletadas e analisadas ao todo 840 publicações sendo o perfil de Pedro Paulo o que 
+registrou o maior número de publicações – 231 – enquanto, curiosamente, o perfil 
+oficial do candidato mais votado - Jair Bolsonaro - foi o de menor incidência – 41 
+posts.  
+
+Uma vez coletado o objeto da pesquisa, este trabalho propõe uma análise 
+sobre os possíveis potenciais de interação a partir de uma tipologia de posts, 
+
+ 
+ 
+ 
+10 
+
+desenvolvida a partir dos trabalhos de Nielsen e Vaccari (2014) e atualizações de 
+Sérgio Braga (2014). Assim, um objetivo deste trabalho é contribuir para o fomento 
+de novos estudos sobre o uso das redes sociais nos pleitos eleitorais no Brasil e nos 
+situar dentro do debate travado por estudos anteriores. Para tanto, será contabilizada a 
+incidência das três ações possíveis de interação permitidas pela plataforma escolhida 
+– curtir, compartilhar e comentar – em cada uma das 840 mensagens observadas. Em 
+seguida, estas postagens foram classificadas e divididas por temas, para então 
+ranqueá-las quantitativamente a partir da sua capacidade viral e então destacar as 
+publicações com maior alcance e visibilidade levando em conta as características 
+comunicacionais que foram preponderantes para que umas se destacassem mais que 
+outras. A última parte da pesquisa se dedica a cruzar os dados estatísticos para 
+perceber possíveis relações entre as postagens e sua capacidade viral nas fanpages 
+observadas, deixando expostos os principais pontos estratégicos, em comum e em 
+dissonância, adotados por cada uma das campanhas e os respectivos resultados. 
+Entre os candidatos que disputaram as eleições em 2014, os oito nomes 
+previamente citados foram escolhidos como objetos dessa pesquisa não apenas por 
+buscarem a reeleição ao cargo de deputado federal como também por destacarem 
+entre seus pares pela forte presença nas mídias digitais em 2014. Mesmo fora de 
+períodos eleitorais, todos os candidatos demonstram preocupação em manter 
+constantemente atualizadas suas principais plataformas: site oficial, blogs e perfis 
+pessoal e profissional nas redes sociais.  
+Individualmente, Molon, além de ter sido relator do Marco Civil da Internet, é 
+um grande incentivador e usuário dos veículos de comunicação online. Recentemente, 
+Molon rompeu com seu antigo partido, o PT, e optou por filiar-se ao partido Rede 
+Sustentabilidade, simpatizante das propostas de inclusão digital. Chico Alencar, do 
+PSOL, foi o sexto mais votado entre os deputados federais do Rio de Janeiro em 
+2014, sendo reeleito para o seu quarto mandato consecutivo. Leonardo Picciani 
+reelegeu-se ao seu terceiro mandato como deputado federal pelo PMDB. Durante esse 
+tempo, presidiu a Comissão de Constituição e Justiça, assumiu a Secretaria de Estado 
+de Habitação por dois anos e foi relator da CPI da pirataria. Já Eduardo Cunha, 
+evangélico e membro da igreja neopentecostal Sara Nossa Terra. Filiado ao PMDB, é 
+deputado federal pelo Rio de Janeiro e atualmente preside a Câmara dos Deputados. 
+Pedro Paulo já se elegeu por duas vezes deputado federal pelo estado do Rio de 
+Janeiro, passou pela subprefeitura da Barra da Tijuca e Jacarepaguá, pela secretaria 
+municipal de Meio Ambiente e a Casa Civil da Prefeitura do Rio. Atualmente é 
+
+ 
+11 
+
+secretário executivo de Coordenação de Governo do prefeito Eduardo Paes. Jean 
+Wyllys ganhou projeção após participar e vencer um reality show de grande alcance 
+na TV brasileira. Foi eleito pela primeira vez em 2010 e, quatro anos depois foi 
+reeleito como o sétimo mais votado entre os deputados federais do Rio. Rodrigo Maia 
+foi eleito para seu primeiro mandato como deputado federal pelo Rio de Janeiro aos 
+28 anos. Foi quando presidiu a Comissão de Trabalho, Administração e Serviço 
+Público, Finanças e Tributação; Constituição, Justiça e de Cidadania; Fiscalização 
+Financeira e Controle; Legislação Participativa e Relações Exteriores e de Defesa 
+Nacional. Já Bolsonaro adota um estilo polêmico confrontador, dialogando 
+diretamente com um nicho específico da sociedade e o efeito dessa comunicação pode 
+ser percebido nos suntuosos números que ostenta em seu perfil oficial como veremos 
+mais a frente.  
+O Facebook também não foi escolhido ao acaso. Fundado em 2004 por 
+estudantes da Universidade de Harvard para ser uma rede social restrita aos seus 
+colegas de estudo, a plataforma social passou, em 2007, a ser a mais popular entre as 
+mídias sociais no planeta. Em 2014, o Facebook já contabilizava mais de 1 bilhão de 
+usuários ativos e o sucesso de público no Brasil não foi diferente. Logo a mídia social 
+se tornou uma das mais importantes para a comunicação social e política nos últimos 
+anos, atraindo instituições públicas, atores sociais e políticos diversos, veículos de 
+comunicação e jornalistas, partidos, movimentos sociais e eleitores que interagem, 
+consomem, produzem e circulam informações gerais (PARMELEE; BICHARD, 
+2012). É um ambiente, considerado por muitos estudiosos da área, promissor para 
+interações de diversas naturezas e compartilhamento de todo tipo de informação 
+(KUSHIN; KITCHNER, 2009; MENDONÇA; 2012). Isso porque é permitido aos 
+seus participantes buscar e cultivar interesses comuns, consumir informações políticas 
+regularmente e exercer seus direitos de resposta (BRYAN, 2005, p. 4). Não à toa, as 
+redes sociais são ambientes onde se encontram potenciais eleitores e ativistas, com o 
+objetivo de circular suas mensagens em caráter viral e organizar suas atividades de 
+campanha (AGGIO, 2010).  
+A pesquisa foi realizada com auxílio direto do software Digicampanha, 
+ferramenta digital capaz de realizar busca e coleta de dados digitais no Facebook, e 
+especializada em armazenamento e cruzamento de grandes volumes de informação – 
+big data – além da leitura e monitoramento de conteúdos publicados no Facebook – 
+crowdsorcing. Desenvolvido em 2016 para atender a demandas do mercado voltado 
+para as eleições minoritárias de outubro, o Digicampanha tem por objetivo fazer o 
+
+ 
+12 
+
+máximo de coletagem, armazenamento e cruzamento de informações possíveis e 
+publicadas na rede social.  
+O software iniciou, no dia 24 de fevereiro, a busca nos oito perfis pesquisados 
+por esse trabalho e coletou uma série de dados, apresentados em planilha e 
+organizados da seguinte forma: 1) nome do candidato; 2) número de votos em 2014; 
+3) número de curtidores da fanpage; 4) texto da publicação; 5) data da publicação; 6) 
+número de interações, i.e. a soma de compartilhamentos, curtidas e comentários que 
+cada candidato obteve; 7) média de interações por postagem para cada candidato; 8) 
+número de compartilhamentos; 9) média de compartilhamentos por postagem; 10) 
+número de curtidas; 11) média de curtidas; 12) número de comentários; 13) média de 
+comentários; e 14) número de postagens para cada um dos sete tipos de publicação, 
+que serão detalhados mais à frente. 
+A metodologia aplicada manteve seu foco voltado para a análise de todo 
+conteúdo publicado nas oito fanpages durante os dias de campanha já citados e sua 
+respectiva capacidade de promover a interação entre os usuários do Facebook. Em 
+seguida, essas publicações foram categorizadas a partir dos seus temas (NIELSEN, 
+VACCARI, 2013) com a finalidade de entender melhor se existem assuntos mais 
+propícios à interação que outros e como os "curtidores" reagem a cada um deles a 
+partir da média de ações – curtir, compartilhar e comentar - por post . Nesse sentido, a 
+pesquisa foi conduzida a partir das seguintes etapas: 1) contabilizar o total de 
+publicação de cada um dos candidatos e a média de suas respectivas ações de 
+interação; 2) categorizar as publicações por seus respectivos temas; 3) identificar os 
+temas mais propensos à interação com os “curtidores”; e 4) cruzar os dados coletados 
+em de correlações estatísticas entre postagens e interação. 
+Nesse contexto, o cerne da questão não se resume ao fato de se os candidatos 
+estão ou não inseridos no universo digital e fazem uso dessas tecnologias como novas 
+ferramentas de campanha, mas o quanto eles alcançam em termos de publicidade e 
+visibilidade de seus discursos e quais os impactos dessa nova forma de comunicação 
+na atual conjuntura eleitoral. Vale lembrar que, no Brasil, ainda há muito que evoluir 
+quando o assunto é inclusão digital. Assim como é necessário levar em conta o 
+grande número de estudos (BORGES, 2011) que comprovam o crescimento vertical 
+da utilização massiva de celulares como principal hardware e do Facebook como 
+principal canal de consumo da comunicação política entre todas as camadas da 
+sociedade brasileira.  
+
+ 
+13 
+
+ A busca por uma resposta leva à reflexão sobre: a) a comunicação política e 
+suas intenções por traz da estratégia adotada pelos candidatos em campanha; b) quais 
+recursos comunicacionais são majoritariamente utilizados e quais geram mais ações 
+de interação; e c) a correlação entre o número de postagens, seus respectivos temas e 
+a capacidade de promover a interação entre político e curtidor. Foi intenção principal 
+dessa pesquisa observar quatro pontos específicos: 1) Que candidato é mais popular 
+quando se dirige ao seu público curtidor; 2) Que tema de postagem cada um dos 
+candidatos privilegia?; 3) Que tipo de postagem apresenta maior potencial de 
+interação no ambiente eleitoral?; e 4) É possível relacionar a performance dos 
+candidatos nas redes sociais com seus desempenhos nas urnas eletrônicas?  
+Dessa forma, esta dissertação possui quatro seções, contando esta primeira 
+introdutória. Na seguinte, está uma discussão teórica que serve de referência para a 
+análise sobre os potenciais que a internet traz não apenas para aprimorar a 
+participação civil nos processos políticos (STROMER-GALLEY, 2006) e de interesse 
+publico como também sobre o uso dessas novas ferramentas neste novo ambiente 
+eleitoral digital e social. Para tanto, serão apresentadas as justificativas teóricas da 
+importância deste tipo de pesquisa e a metodologia aplicada neste exame das 
+características político-comunicacionais do objeto. Em seguida, são apresentados a 
+metodologia desenvolvida e os resultados empíricos alcançados, subscritos sob a 
+forma de dados, classificações e gráficos em análises comparativas e correlações. As 
+possibilidades anteriormente levantadas serão testadas ao longo da pesquisa e 
+confirmadas ou não em suas considerações finais. Os resultados apresentados serão 
+parte da análise crítica, contendo os principais aspectos que deram forma à estratégia 
+de campanha digital do candidato. 
+Nela será possível observar claramente algumas evidências que poderão servir 
+de hipóteses para estudos futuros. Em primeiro lugar, é possível concluir que não há 
+qualquer traço de relação entre a mera incidência de postagens com o número de 
+interações obtidas. Foi possível observar também, e com certa clareza, que os 
+números atingidos por Jair Bolsonaro em sua fanpage fazem dele um outlier entre as 
+outras candidaturas aqui pesquisadas. Outra constatação diz respeitos às relações 
+significativas entre, por exemplo, os temas "plataforma de campanha" e "registro de 
+atividades" e o grande potencial de compartilhamentos e novamente "plataforma de 
+campanha" em promover comentários. Outra conclusão, essa mais óbvia, que pôde 
+ser levantada a partir dos dados diz respeito à importância do número de curtidores 
+para o maior acumulo de dados de interação. Por fim, foi incluída a variável "número 
+
+ 
+14 
+
+de votos" para cada candidato, como já foi dito, menos no intuito de perceber uma 
+relação de causa e consequência entre o desempenho na mídia social e nas urnas e 
+mais na intenção de perceber se, no ambiente eleitoral contemporâneo, um candidato 
+bem sucedido em termos de votos tende a ser também, eficiente em sua comunicação 
+na web, especialmente nas mídias sociais.  
+
+ 
+ 
+2 
+Comunicação, internet e eleições 
+
+A pesquisa desenvolvida se insere no campo da Internet e Democracia e 
+dialoga com as principais teorias voltadas para a identificação e compreensão das 
+consequências comunicacionais da relação desenvolvida entre políticos e cidadãos 
+em ambiente online durante o período eleitoral (GOLBECK et. al, 2010; 
+GUEORGUIEVA, 2008; VACCARI, 2013). Sendo assim, será traçado, neste e no 
+capítulo a seguir, um panorama das principais perspectivas teóricas sobre as 
+potencialidades e fragilidades existentes na relação Internet-eleições para, 
+posteriormente, aprofundar a discussão com questões concernentes à relação entre 
+mídias sociais e eleições a partir da análise do conteúdo político presente no 
+Facebook, e seus potenciais de interagir diretamente com o público online. 
+
+2.1 
+Internet e eleições: um panorama geral 
+
+Se em um primeiro momento as campanhas empreendidas por candidatos e 
+partidos chamavam a atenção para os potenciais efeitos da web nas intenções de 
+voto e para os diferenciais em comparação aos modos tradicionais de campanha, 
+agora as questões se expandem para possíveis mudanças na configuração dos 
+padrões de disputa eleitoral, do provimento de informações sem a interferências 
+de intermediários e nos diferentes padrões de estilo e sofisticação de campanhas. 
+Conforme a web passa a evoluir e apresentar mudanças tecnológicas que 
+possibilitam maior velocidade e volume ao tráfego de dados e informações 
+(AGGIO, 2010), além de requisitar maior participação dos internautas na 
+produção e publicação de conteúdos, as questões de pesquisa e configuração 
+empírica das experiências analisadas passam a lidar com recursos como mídias 
+digitais – site e blog – e redes sociais, com ênfase no potencial de comunicação 
+direta com o eleitorado. 
+A maciça participação de políticos em perfis nas mídias digitais, fenômeno 
+recente e facilmente identificável principalmente durante períodos eleitorais, e a 
+instantânea popularidade que alguns conseguiram alcançar no ambiente online – 
+se tornando verdadeiros outliers deste segmento específico - têm levado muitos 
+teóricos a sugerir que uma nova geração de ferramentas da Internet – em 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+16 
+
+particular as redes sociais – está possibilitando que políticos comuniquem-se 
+diretamente com os cidadãos (GOLBECK et. al, 2010; GUEORGUIEVA, 2008; 
+VACCARI, 2013) sem qualquer barreira geográfica ou temporal. Vale ressaltar 
+ainda que, ao aplicar os princípios da publicidade e da visibilidade à realidade 
+comunicacional característica das redes digitais, foi possível permitir que cidadãos 
+presentes no ambiente online, amplamente munidos de informação, pudessem se 
+interar com muito mais facilidade e rapidez sobre os principais assuntos públicos 
+(MARQUES, 2014) em pauta. Nesse contexto, a Internet e os novos meios de 
+comunicação, de acordo com alguns autores, apresentariam potencial de reversão 
+da apatia e descrença na política, aumentando as possibilidades e a oferta de 
+instrumentos de participação civil (GOMES, 2008, p. 302). A crença nessa inédita 
+interação entre políticos e pessoas comuns por meio destas ferramentas é um 
+fenômeno amplamente estudado nos principais regimes democráticos. Não à toa, 
+pesquisadores de todo o mundo vêm defendendo a real possibilidade de 
+comunicação direta online em larga escala entre os candidatos e os cidadãos em 
+estudos sobre países tão diferentes como por exemplo: Dinamarca, Holanda, 
+África do Sul, Coréia do Sul, Reino Unido (VACCARI, 2013) e Brasil (AGGIO, 
+2013; GOMES, 2010), como será visto mais à frente. 
+E é justamente um estudo mais aplicado sobre esse fenômeno que esta 
+pesquisa propõe: uma análise sobre os impactos da comunicação política nas redes 
+sociais durante o período eleitoral num regime democrático. Mais precisamente, é 
+objetivo principal desse trabalho lançar um olhar científico sobre as publicações 
+de políticos brasileiros durante período pré-determinado de propaganda eleitoral 
+em 2014 no Facebook e assim identificar características e práticas de uso da 
+comunicação política como instrumento de campanha nessa mídia social a partir 
+da capacidade viral de suas postagens. 
+Para tal, é função dessa primeira seção iniciar um diálogo entre as 
+principais teorias voltadas para a identificação e compreensão das consequências 
+comunicacionais da relação desenvolvida entre políticos e cidadãos em ambiente 
+online durante o período eleitoral e suas especificidades. Cada vez mais relevante, 
+esse fenômeno levou a academia a perceber quais eram, de fato, os possíveis 
+potenciais da web para as dinâmicas eleitorais nas democracias contemporâneas 
+(GOMES et al, 2011; MARQUES; SAMPAIO; AGGIO, 2013). Da campanha de 
+Barack Obama, em 2008, até a recente e espetacular popularidade online 
+
+ 
+17 
+
+alcançada por alguns dos pré-candidatos à Casa Branca em 2016, tais como Hilary 
+Clinton, Bernie Sanders e Donald Trump, muitos estudiosos passaram a sugerir 
+que as mídias sociais têm possibilitado que políticos utilizem novas e poderosas 
+formas de se comunicar diretamente com seus eleitores (VACCARI, 2008). Desde 
+então, muitos trabalhos passaram a encorpar essa literatura, em especial nos países 
+com altos níveis de uso da Internet e adesão maciça às mídias sociais (VACCARI; 
+NIELSEN, 2013), como é o caso do Brasil.  
+Portanto, expressando o interesse cada vez maior dos estudiosos sobre os 
+impactos da internet nos processos de representação política e nos sistemas 
+políticos contemporâneos de uma maneira geral, o uso das mídias sociais nos 
+períodos eleitorais em democracias representativas vem suscitando uma produção 
+científica expressiva, que busca analisar os diferentes usos da web pelos mais 
+variados tipos de atores e instituições que integram o “sistema político virtual” - 
+órgãos governamentais, parlamentos, candidatos às eleições, parlamentares, 
+partidos políticos, bem como movimentos sociais - e suas repercussões nas formas 
+de ação coletiva e de comportamento político de tais atores (NORRIS, 2013; 
+CHADWICK, 2009). Serão trazidos à discussão, nos próximos capítulos, 
+panoramas das principais perspectivas 
+teóricas que abordem possíveis 
+potencialidades e fragilidades existentes no uso da internet pra fins eleitorais para, 
+posteriormente, aprofundar a discussão com questões concernentes à relação entre 
+mídias sociais e eleições. Para tal, além do tradicional confronto teórico entre 
+“cyberotimistas” e “cyberpessimistas” (NORRIS, 2003, p. 235), serão ressaltadas 
+características comunicacionais adotadas por agentes políticos em campanha nas 
+principais mídias sociais e os possíveis efeitos dessa nova forma de interação 
+entre candidato e eleitor no contexto eleitoral a partir da capacidade viral dos 
+posts e de mobilização dos “curtidores” de cada um dos candidatos monitorados. 
+Em relação ao contexto social e político em que a pesquisa se insere, da 
+mesma forma que a internet suscitou debates e especulações sobre as possíveis 
+mudanças nos governos democráticos, como a ampliação de valores e práticas 
+atrelados à transparência, publicidade, participação e accountability (AGGIO, 
+2010), as campanhas eleitorais ganharam novas perspectivas e expectativas sobre 
+suas configurações e modos de funcionamento, incrementados, logicamente, por 
+possibilidades e potencialidades específicas da internet. Para iniciar uma 
+discussão mais abrangente sobre o uso das novas mídias digitais como 
+
+ 
+18 
+
+ferramentas de comunicação política direta e sua aplicabilidade no ambiente de 
+campanhas eleitorais, é preciso anteriormente mencionar a existência de uma 
+bibliografia crescente sobre o uso desses recursos advindos da Internet, como será 
+feito a seguir.  
+Dentro desse quadro, começa a surgir uma série de estudos empíricos mais 
+sistemáticos e dedicados a analisar o papel das novas tecnologias nos pleitos 
+eleitorais, destacando-se especialmente os voltados a estudar os usos da internet e 
+mídias sociais pelos candidatos às eleições majoritárias, especialmente eleições 
+presidenciais (GOMES, 2008). Partindo de conceitos mais próximos à sociologia 
+política, parte da academia visa à apreensão do impacto da internet no 
+funcionamento de dimensões relevantes das democracias e no estreitamento dos 
+vínculos entre representantes e cidadãos comuns, geralmente relacionando a 
+atuação dos candidatos na internet com outros fenômenos de interesse político. 
+Como se sabe, antes do “fenômeno Obama” o debate se estruturava em torno dos 
+potenciais da web de gerar novas possibilidades à democracia, para além das 
+democracias 
+representativas 
+realmente existentes, dando origem a uma 
+polarização radical entre os “ciberpessimistas” ou “cibercéticos”, para os quais a 
+internet pouco altera as formas tradicionais de fazer política, apenas reproduzindo 
+a “política como usual”, e os “ciberotimistas”, mais exultantes, para os quais a 
+internet seria capaz de gerar novas formas de democracia “deliberativa, “direta”, 
+ou “participativa” capazes mesmo de promover uma superação histórica, no longo 
+prazo, das formas de democracia representativa realmente existentes (NORRIS, 
+2003). 
+
+Outra vertente de estudos, essa mais próxima da ideia da possibilidade de 
+comunicação política direta entre o comunicador e o cidadão online busca 
+examinar empiricamente o uso das redes sociais nas campanhas eleitorais, 
+geralmente analisando sua relação com outras mídias tradicionais. Com efeito, 
+tentativas recentes de sistematização bibliográfica indicam que este tipo de análise 
+ainda está em desenvolvimento no Brasil, embora já haja um corpus relativamente 
+amplo de trabalhos relevantes sobre a temática mais geral dos impactos e dos usos 
+da internet nas eleições na literatura internacional (AGGIO, 2010).  
+Por isso o propósito dos capítulos teóricos é estabelecer um exercício de 
+organização e discussão de parte da literatura formada em torno do uso das redes 
+sociais nas campanhas online para expor quais as preocupações, questões e 
+
+ 
+ 
+ 
+19 
+
+problemas que compõem o universo de pesquisa deste fenômeno e em qual 
+medida as transformações ocorreram a partir de aplicação de ênfases diferenciadas 
+ou da adição de novas questões e perspectivas. Cabe, porém, antecipar a 
+explicação de que muitos dos períodos aqui mencionados foram divididos em 
+anos de eleições e que grande parte dos trabalhos analisados são dedicados às 
+campanhas online em países como Estados Unidos e Itália (NIELSEN , 
+VACCARI, 2014).  
+Como dito antes, não são poucos os estudos sobre o uso das redes sociais 
+na comunicação política de uma campanha e as inúmeras e diferentes 
+consequências tanto em relação às práticas políticas em si (GOMES; MAIA, 
+2008; MAIA; GOMES; MARQUES, 2011; COLEMAN; BLUMLER, 2009) 
+quanto às perspectivas liberal, participacionista e deliberacionista da democracia 
+(GOMES, 2010). É razoavelmente comum se deparar com teorias interessadas em 
+discutir níveis de participação política mediada por tecnologias digitais, uma vez 
+que os ganhos idealizados ajudam a alimentar a esperança de que essas novas 
+ferramentas tecnológicas possam atuar como elemento intensificador da política 
+(GOMES, 2008), seja por permitir a comunicação direta entre representantes e 
+representados, pelas novas plataformas de participação política do cidadão, pelo 
+incremento do debate público sobre temas comuns nas sociedades, ou mesmo pela 
+ampla divulgação de dados e informações sobre o mundo político em geral 
+(ITUASSU, CAPONE, 2014). Outros autores preferirão discutir a popularidade 
+dos candidatos nas redes sociais, se seguem um padrão normal de distribuição de 
+atenção ou se esta é altamente enviesada, num cenário onde poucos políticos 
+atrairiam muita atenção dos internautas enquanto a maioria deles não teria o 
+mínimo de atenção sequer (RUSSEL, 2011), sugerindo que a existência dessa 
+comunicação direta nada mais seja que uma exceção e não a regra. 
+Há, portanto, um interesse palpável em saber até que ponto a internet e 
+suas iniciativas online podem contribuir, de fato, para fortalecer a cidadania, 
+encurtar a distância entre política e eleitores e favorecer o debate sobre questões 
+políticas (GOMES, 2004, p.19). Existe todo um questionamento de se teria a 
+internet, enfim, preenchido lacunas vulneráveis da democracia ao trazer ao jogo 
+político, novas ferramentas capazes de promover o incremento da mobilização 
+cívica e do engajamento político, além de inserir novos interessados na discussão 
+de temas públicos (JENNINGS; ZEITNER, 2003, GOMES, 2004 p.28).  
+
+ 
+ 
+20 
+
+Uma vez considerado dever da democracia promover e proteger os direitos 
+e liberdades individuais, inclusive contra a tirania do Estado, caberá à 
+comunicação digital assumir as funções de vigilância e reforço das liberdades e da 
+autonomia dos indivíduos (GOMES, 2010, p. 3), ou seja, espera-se que a 
+comunicação na democracia seja capaz de garantir o direito de expressão dos 
+cidadãos, abrindo espaço para a pluralidade de vozes e possibilitando os 
+indivíduos a exercerem o papel de fiscalizadores e vigilantes das ações políticas 
+mediante a publicação de informações e prestação de contas de partidos e 
+governos (GOMES; MAIA, 2008, p. 11-20). 
+Cabe aqui, ressaltar as barreiras digitais, ou seja, o enorme número de 
+cidadãos sem acesso às novas tecnologias, o que cria novas assimetrias entre os 
+que estão conectados e os que não estão e fere a condição de universalidade dos 
+processos de deliberação, de acordo com a qual nenhum grupo ou pessoa deve ser 
+excluído do debate (MAIA, 2008, p. 284). Desencadeiam esse cenário o alto custo 
+da tecnologia e os elevados índices de analfabetismo, fatores que se refletem na 
+aquisição e uso da internet. Anthony Wilhem (apud MAIA, 2008, p. 284) divide a 
+sociedade da informação entre os usuários que estão em seu centro, isto é, os que 
+têm pleno acesso aos seus recursos como instrumento de comunicação e 
+informação; os usuários periféricos, parte deles com acesso às tecnologias, 
+usando-as de maneira episódica, e a outra parte sem conexão à rede, dependendo 
+do acesso público; e, por fim, os usuários imunes ao progresso, cidadãos que 
+nunca usaram um computador por não terem educação necessária para fazê-lo, 
+permanecendo excluídos do mundo digital. Nesse sentido, 
+iniciativas 
+governamentais de oferecer serviços ou consultas aos cidadãos via internet podem 
+significar uma amplificação da exclusão socioeconômica e cultural e um reforço 
+das assimetrias já estabelecidas. Críticos questionarão, então, se as redes digitais 
+teriam a capacidade de aumentar o quociente de isonomia política dentre os 
+cidadãos, uma vez que, como visto acima, há vozes não participantes (GOMES, 
+2008, p. 316). Marques (2014, p. 105-106) atenta para o fato de que, ainda que a 
+questão do digital divide fosse resolvida ou, ao menos, o acesso à comunicação 
+digital mais democrático, as formas de uso continuariam atendendo a diferentes 
+padrões, ou seja, ainda poderiam existir usuários conectados às redes e aos 
+aparatos tecnológicos, mas com ínfimo interesse em sua utilização. Sendo assim, 
+“a oferta adequada de acesso não garante que os cidadãos tomarão parte no jogo 
+
+ 
+ 
+ 
+21 
+
+democrático”, permanecendo o déficit de participação um problema, talvez, mais 
+de ordem política do que técnica. 
+Não é intuito desse trabalho fazer uma ampla revisão das perspectivas e 
+fundamentos que sustentam a linha de pesquisa dedicada às campanhas online, 
+mas sim o de contribuir para o acúmulo de abordagens e evidências empíricas a 
+partir das experiências de utilização dos social media como plataforma de 
+comunicação para as campanhas (MARQUES; SAMPAIO; AGGIO, 2013). 
+Dentre os estudos tomados como referência, destaca-se o artigo pioneiro de Pippa 
+Norris (2003), onde a autora sustenta a proposição segundo a qual os agentes e 
+partidos políticos, em suas atividades online, estariam apenas “falando para quem 
+já o escuta” ao difundir mensagens que teriam como receptores basicamente 
+aqueles que 
+já estão predispostos 
+ideologicamente a 
+interagir com 
+tais 
+organizações (BRAGA, 2014). Mesmo escrito antes da chegada das redes sociais 
+no contexto político, Norris foi capaz de traçar um diagnóstico que, para muitos, 
+permanece atual ao observar que não basta apenas estar presente ou ser ativo na 
+Internet.  
+Surgia assim uma nova forma de se comunicar, agora deslocada para o 
+ambiente online, sem restrições geográficas ou 
+temporais (COLEMAN; 
+BLUMLER, 2009). Essa nova realidade levou autores, como Helen Margetts 
+(2006), a destacarem os potenciais interativos das tecnologias digitais capazes de 
+fornecer bases tecnológicas para um novo modo de organização, tanto de agentes 
+como de partidos e organizações políticas, agora mais participativo e democrático, 
+sublinhando um antigo costume por parte desses agentes e partidos de se 
+adaptarem ao estilo mais participativo de atuação, com intuito de se reconectar 
+com seus apoiadores (MARGETTS, 2006). 
+No caso da produção brasileira, é fundamental atentar que a legislação 
+eleitoral em vigor até as eleições de 2008 ignorou as experiências de comunicação 
+digital das campanhas, uma vez que a utilização de redes sociais ou sites de 
+publicação de mídias como vídeos e áudio eram proibidos. As campanhas online 
+brasileiras, até 2010, portanto, só podiam ser praticadas nos blogs e sites oficiais 
+dos candidatos e partidos, gerando poucas iniciativas (AGGIO, 2010), afinal, o 
+Tribunal Superior Eleitoral passou a permitir, pela primeira vez em 2010, que uma 
+rede social fosse utilizada por partidos e candidatos em disputa eleitorais, no caso 
+o Twitter. Nas eleições de 2014 o pleito se notabilizou pela entrada do Facebook 
+
+ 
+ 
+ 
+ 
+22 
+
+nas e-campanhas e pela consolidação do uso das redes sociais como tendência, 
+graças ao alto uso e adesão maciça às ferramentas da Web e o surgimento de uma 
+nova forma mais barata e eficiente de promover o marketing político. Esse 
+fenômeno ficou evidente no ambiente online, com a expressiva presença de 
+candidatos em algum tipo de rede social e sua utilização como ferramenta de 
+comunicação e interação com os eleitores de uma maneira geral (BRAGA; 
+CARLOMAGNO, 2014).  
+A missiva adesão a este novo ambiente propiciou o surgimento de dúvidas 
+e questionamentos sobre os possíveis desdobramentos do uso dessas novas media 
+e suas consequências. Questões como essas estimularam autores como Wilson 
+Gomes a ressaltar a falta de participação efetiva do cidadão nas questões políticas, 
+o que em sua visão está longe de ser tratado como prioridade pelos atuais modelos 
+de democracia. Gomes vai além e enfatizada, nesse contexto, a baixa capacidade 
+do cidadão em disputar o interesse público com agências e agentes de interesses 
+privados. Para o autor, nem mesmo o aumento da participação seria capaz de 
+reverter este enfraquecimento político notório da cidadania e a colonização do 
+processo decisório por interesses privados organizados (GOMES, 2004).  
+Talvez não seja exagero considerar, examinando toda uma literatura, que 
+existe uma atmosfera de ceticismo quanto às possibilidades interativa das mídias 
+digitais (BRAGA; CARLOMAGNO, 2014) para um contexto de maior 
+reconhecimento dos potenciais da internet para produzirem alterações de melhoria 
+na ação do uso político, tornando-o mais participativo e poroso às novas e 
+inúmeras vozes sociais. A isso se atribui a grande quantidade de análises sobre as 
+formas de atuação política na Web, produzindo vários textos abordando 
+problemas como o porquê de políticos e partidos evitarem tanto interagir online 
+(STROMER-GALLEY, 2000). Para teóricos como Karlsson (2013), essa baixa 
+interatividade reflete a postura e antigas crenças consideradas inerentes à política 
+em si, mais preocupada em difundir mensagens e diretrizes programáticas – o que 
+ficará visível mais a frente na parte da pesquisa empírica, quando será 
+demonstrada, em números, a preferência de ambos os candidatos em postar 
+registros do dia-a-dia da campanha e de suas atividades em detrimento a outros 
+temas, considerados por essa pesquisa, de maior relevância política como é o caso 
+do tema: “Plataforma de Campanha” – para os eleitores mais próximos do que em 
+criar novos produtos políticos (KARLSSON, 2013). 
+
+ 
+ 
+ 
+23 
+
+Porém, entre tantos questionamentos destaca-se o teor democrático e 
+deliberativo do uso da internet para fins políticos. De fato, há mais de quinze anos 
+são estudadas as ferramentas - fóruns e listas de discussão - e iniciativas dedicadas 
+a promover o debate público online com a finalidade de ver até onde são 
+cumpridos os requisitos fundamentais seja de esfera pública, seja de uma 
+deliberação normativamente fundada. (DAHLBERG, 2007; GOMES, 2004, p.20). 
+Muitos autores vão defender a ideia, não compartilhada por este trabalho, de que a 
+única saída viável seria a “antirrepresentação” e/ou a participação total; 
+defendendo que só é possível haver participação política, isto é, aquela 
+democraticamente relevante, se antes for reconhecido que “todo poder é do povo” 
+e que a representação política seria, no fundo, uma mera usurpação do processo 
+decisório (WALLACE; PICHLER, 2004).  
+Este trabalho entende que, com auxílio das novas ferramentas sociais, já é 
+possível criar inúmero meios de participação cidadã. As redes sociais, por 
+exemplo, são veículos cada vez mais populares de comunicação direta entre 
+agentes, partidos e instituições políticas e boa parte da população, capazes 
+estimular a participação popular com seus potenciais de interatividade. Os 
+surveys, pesquisas de opinião voltadas para a esfera pública online, a facilidade 
+para pessoas físicas fazerem doações e/ou aderirem como voluntários da 
+campanha são outras alternativas que incentivam a participação popular. Nestes 
+casos, o fortalecimento via tecnologias digitais, de instituições do governo 
+destinadas a evitar que o sistema político e os governos, em particular, apoderem-
+se do Estado em prejuízo da soberania popular, pode ser um objetivo mais simples 
+e realista que a espera pela participação política maciça. Para tal, seria necessário 
+garantir que exista um número apropriado de canais e oportunidades para que 
+qualquer cidadão possa se tornar participante da esfera pública e da vida política. 
+Nesse cenário, liberdade e informação são tão importantes quanto as já 
+enumeradas iniciativas destinadas a promover formas de participação civil. 
+Dessa forma, é impossível ignorar o fato de que as campanhas online vêm 
+se tornando, ao longo dos últimos anos, objeto de extrema relevância no campo da 
+pesquisa em comunicação e política. Os debates e especulações que desafiam toda 
+uma literatura sobre os possíveis impactos suscitados pelo uso da internet nos 
+governos democráticos atribuem automaticamente às campanhas eleitorais toda 
+uma nova perspectiva ema série de expectativas acerca de suas novas práticas. Já 
+
+ 
+ 
+ 
+ 
+24 
+
+é possível perceber toda uma ânsia por qualquer manifestação de incremento nos 
+valores e práticas atreladas à 
+transparência, participação, accountability, 
+publicidade etc. 
+Aliás, esta profunda necessidade de visibilidade, inerente às práticas 
+políticas contemporâneas, induz tanto agentes quanto partidos políticos a uma 
+exacerbada preocupação com a “política de imagem” e seus padrões de 
+administração de fluxo de informações e impressões que o eleitorado projeta sobre 
+seus representantes (MIGUEL, 2005; GOMES, 2004). Este fenômeno expõe os 
+principais motivos para uma crescente demanda de candidatos ávidos por ocupar e 
+comunicar-se através dos mais diversos canais de comunicação digital 
+(STROMER-GALLEY, 2000; MYERS, 1993). Soma-se a essa nova tendência 
+uma gama de novas possibilidades sobre dispositivos e ferramentas digitais 
+capazes de transformar as formas convencionais de comunicação política eleitoral. 
+Sendo assim, essa é a parte inicial de uma pesquisa sobre redes sociais e 
+campanhas eleitorais na Internet, cuja relevância passa por sua atualidade e por 
+sua participação no rol de recursos utilizados em uma campanha eleitoral, de 
+grande alcance entre os meios de comunicação no Brasil. Este trabalho não 
+pretende ficar restrito apenas à análise do conteúdo de textos e compartilhamento 
+de mídias, mas também de seus recursos interativos que podem permitir a 
+intervenção do cidadão online, a construção de uma rede de relacionamentos e de 
+uma dinâmica de comunicação interativa bilateral. 
+
+2.2 
+A trajetória das campanhas eleitorais na web 
+
+Antes de iniciar toda uma discussão teórica a respeito da atuação das 
+campanhas eleitorais nas redes sociais, é preciso ter a compreensão de que a 
+comunicação política pode ser definida como o conjunto das mensagens que 
+circulam dentro de um sistema político, condicionando-lhe toda a atividade, desde 
+a formação das demandas e dos processos de conversão às próprias respostas do 
+sistema. Dentro deste contexto que se encaixam as redes sociais e seus perfis de 
+campanhas eleitorais. Eles estão entre os canais que melhor permitem a circulação 
+das mensagens dentro do sistema político atualmente por possuírem a 
+peculiaridade de permitir, de fato, a interatividade entre comunicador e receptor 
+no ambiente digital. Com isso, são inegáveis as contribuições da Internet para o 
+
+ 
+ 
+ 
+ 
+ 
+25 
+
+estabelecimento de uma relação mais direta e responsiva entre os agentes políticos 
+e os cidadãos comuns e para a possibilidade de criação de um espaço público 
+democrático. Dito isso, será levantada uma literatura cujo embrião se desenvolve 
+nos Estados Unidos no ano de 1992, atinge o ápice de produção entre 2000 e 2004 
+e se estende em conteúdo e reconfiguração das questões até o ano de 2009. As 
+campanhas online merecem, a essa altura, uma revisão que explore como o 
+fenômeno tem se desenvolvido e como se definem os universos do discurso, das 
+práticas, questões e problemas desse objeto (AGGIO, 2010).  
+As primeiras experiências de campanhas eleitorais com auxílio de 
+ferramentas online remetem a 1992, ano da disputa entre Bill Clinton e George 
+Bush para a presidência dos Estados Unidos. Naquele momento, a Internet ainda 
+convivia com muitas restrições de velocidade e tráfego de dados, limitando os 
+formatos de comunicação nos sites dos candidatos a textos estáticos, sem maiores 
+recursos gráficos ou de mídia, o que acabou por definir os sites de campanha 
+como meros panfletos eletrônicos. Ao analisar a experiência da campanha online 
+do então candidato Bill Clinton, já foi possível identificar uma de suas vantagens 
+em comparação com outros meios de comunicação: a possibilidade de fornecer 
+informações diretamente ao cidadão sem qualquer intermediário, de modo a 
+estabelecer uma comunicação direta entre campanha e cidadãos acerca de 
+informações sobre questões de interesse público como suas plataformas de 
+campanha, posicionamentos, declarações, agenda de atividades entre outros 
+temas. No período, o uso da Internet ainda era tímido: utilizava-se uma das 
+primeiras ferramentas de campanha, o email marketing. A dimensão online dessas 
+campanhas consistia em empregar computadores em rede como se fosse uma 
+combinação de máquina de escrever e aparelho de fax, servindo basicamente de 
+correspondência à distância.  
+Depois vieram as campanhas baseadas na web em que o centro da 
+atividade era o site ou blog, criados para arquivo e acesso a informações 
+institucionais, panfletos e materiais de campanha. Num primeiro momento, o 
+conteúdo online era em geral uma cópia eletrônica do mesmo material empregado 
+offline e só posteriormente características específicas do padrão tecnológico do 
+meio foram incorporadas. Este modelo foi sendo estabelecido na segunda metade 
+da década de 1990, atingindo um padrão definitivo provavelmente apenas nas 
+eleições presidenciais americanas de 2000 (BIMBER; DAVIS, 2003). Até então, 
+
+ 
+ 
+ 
+26 
+
+as poucas pesquisas sobre o uso da web como instrumento de comunicação 
+política afirmavam existir um conjunto restrito de cidadãos com acesso ao 
+universo online, e mais restrito ainda era o perfil daqueles que buscavam 
+informações políticas e eleitorais nos sites de campanha. Nesse contexto as 
+questões mais latentes eram: a) quais seriam os cidadãos atingidos pelos 
+conteúdos políticos na web?; e b) como atrair potenciais eleitores para consumi-
+los?  
+
+A partir dos anos 2000, as e-campanhas eleitorais em todo o mundo 
+pareciam ter estacionado no uso das ferramentas de divulgação online. A autora 
+Jennifer Strommer-Galley (2000) questionou a eficiência desse tipo de interação 
+ao criticar o que chamou de “caráter meramente top-down das campanhas online 
+dos anos 1990”. Embora reconheça a diferença existencial entre a informação 
+institucional ou sobre questões políticas e plataformas de campanha em sites 
+estáticos, Strommer-Galley (2000) percebe como grande diferencial do uso da 
+Internet no processo político a real possibilidade de interatividade entre as partes. 
+Sua visão é relativa a um novo modelo de produção de campanha onde eleitores 
+seriam capazes não apenas de elaborar como também levantar questões, dúvidas, 
+críticas e/ou sugestões a partidos e candidatos que, em contrapartida, analisariam e 
+produziriam respostas, de maneira a criar um processo de responsividade, 
+incorporando os eleitores como peças fundamentais e ativas na composição das 
+campanhas (AGGIO, 2010). Porém, já no título de um de seus mais influentes 
+trabalhos, Interação online e por que os candidatos a evitam (2000), a autora 
+deixa transparecer que a pretensão de haver diálogo entre as partes não passava, à 
+época, de uma possibilidade não alcançada. A razão para isso, segundo Strommer-
+Galley, estaria no risco de perda de controle por parte do comunicador sobre suas 
+publicações de campanha. Faltam também ponderações sobre as limitações 
+logísticas para adotar atividades desse tipo, tendo em vista que até os anos 2000 a 
+comunicação política em ambiente online só ocorria através de e-mails, fóruns ou 
+salas de bate-papo ainda pouco populares entre os internautas. No entanto, a 
+interatividade dialógica é de fato um potencial diferencial das campanhas online, 
+tanto que as reflexões de Strommer-Galley são reproduzidas ao longo da literatura 
+nos anos que seguem, principalmente nos trabalhos de pesquisa dedicados, 
+também, ao levantamento da quantidade de recursos e dispositivos utilizados nos 
+websites de campanha (AGGIO, REIS, 2013). 
+
+ 
+ 
+27 
+
+ O cenário só começou a mudar de fato com a chegada das novas 
+ferramentas, tendo em vista a grande velocidade do desenvolvimento tecnológico, 
+e com o crescimento progressivo no número de cidadãos com acesso à Internet. 
+Este último, aliás, é naturalmente um fator que conspira a favor da importância do 
+universo online para a política, afinal é diferente considerar o uso do online 
+quando apenas 3,5 milhões de adultos têm acesso à web, como nos Estados 
+Unidos em 1994, momento em que se começa a empregar alguns recursos online 
+em campanhas (BIMBER; DAVIS, 2003), ou quando já são 200 milhões de 
+pessoas conectadas à rede mundial de computadores (GOMES, 2010), anos 
+depois. Por outro lado, o universo relacionado à internet e às redes digitais mudou 
+tanto e tão velozmente em tão pouco tempo que, segundo Wilson Gomes (2011) 
+esta deve ser a primeira geração da história a ter visto tantas metamorfoses e 
+revoluções de um mesmo sistema tecnológico: computadores sem internet no 
+início dos anos 1980; internet sem web no final daquela década; colocação de 
+computadores via web, ao alcance de qualquer um nos anos 1990; e internet e web 
+sem computadores menos de duas décadas depois. De fato, estabeleciam-se novas 
+preocupações e reflexões por parte da literatura sobre o fenômeno, assim como a 
+ênfase em determinadas aplicações e atividades de candidatos e partidos no 
+ambiente online.  
+No entanto, permaneciam muitas das expectativas, que eram depositadas 
+na possibilidade de interatividade através da comunicação direta entre o candidato 
+e o cidadão. Outras surgiam como a possibilidade de suprir assimetrias em relação 
+à visibilidade de campanha entre os partidos da situação ou de oposição. Inaugura-
+se, mais especificamente, a questão da paridade de disputa entre partidos com 
+maior aporte financeiro e partidos com menor volume de recursos através da 
+comunicação e provimento de informação na internet (ITUASSU; CAPONE, 
+2015). Nesse sentido, um diálogo é estabelecido entre a cientista política Pippa 
+Norris (2002), que sustenta a hipótese de que a utilização da internet por 
+campanhas eleitorais é mais condicionada aos níveis de desenvolvimento 
+tecnológico do que por aspectos sócio-culturais e Kluver (2004), que discorda da 
+perspectiva de Norris ao demonstrar que no caso específico da República de 
+Cingapura, que já dispunha de infraestrutura de acesso cobrindo quase todo o 
+território e onde praticamente 
+toda população 
+já acessava a web, o 
+desenvolvimento das campanhas online não acontecia na mesma medida que em 
+
+ 
+ 
+ 
+28 
+
+outras realidades políticas, como as democracias liberais ocidentais (AGGIO, 
+2010). Dessa maneira, inclui-se na discussão a importância das influências e 
+contextos políticos para o desenvolvimento da web como veículo de comunicação 
+política direta. Sendo assim, o desenvolvimento tecnológico e a distribuição de 
+acesso, em algumas realidades políticas, não são suficientes para o alcance de uma 
+maior paridade de disputa (KLUVER, 2004). 
+Norris (2002), aliás, ao analisar o período entre 1992 e 2000, faz alguns 
+comentários sobre o uso de sites voltados para a campanha política eleitoral dos 
+seus primórdios até os anos 2000. Embora inicialmente suas publicações não 
+fossem centradas exatamente nas campanhas online, atribuindo uma 
+funcionalidade estritamente informativa à comunicação digital presente nos sites 
+em detrimento de funcionalidades interativas com caráter dialógico iniciando, a 
+discussão acerca da interatividade já ganhava contornos de discussão (AGGIO, 
+2010). 
+
+Até 2004, quando se discutia as inovações das campanhas online, eram 
+observadas as seguintes características: a) a nova forma de se comunicar mais 
+rápida e objetiva com boa parte da sociedade e sem depender de intermediários; b) 
+a comunicação mais direta e acompanhada de uma necessidade de responsividade 
+dos políticos com os cidadãos online através do diálogo e de recursos interativos; 
+3) o aumento espontâneo do alcance e da visibilidade das informações. Porém, o 
+que se via na prática era apenas uma função simbólica das campanhas em adotar 
+as novas tecnologias, uma vez que a qualidade dos elementos relacionados à 
+informação era praticamente inexplorada. A escassez de opções interativas como 
+fóruns de discussão, blogs ou sondagens de opinião por conta do receio de perda 
+de controle sobre a mensagem política (STROMMER-GALLEY, 2000) e o baixo 
+interesse em promover discussões políticas substanciais 
+também eram 
+causalidades frequentemente identificadas nas principais pesquisas teóricas e 
+empíricas. Só a partir de 2005 que, embora as questões até aqui relatadas 
+permanecessem discutidas, a preocupação com a mobilização e incorporação de 
+interferências dos eleitores passa a ser uma tônica crescente, atingindo o ápice 
+através da popularização de ferramentas como blogs e outras mídias sociais. 
+Em 2008 populariza-se no vocabulário eleitoral nomes e termos - social 
+networking sites, video-sharing sites, microblogging,feeds - que só eram comuns 
+entre os heavy users da Internet (GOMES, MARQUES; 2011). Essa evolução a 
+
+ 
+ 
+29 
+
+pleno vapor das ferramentas digitais e suas novas funcionalidades pode explicar 
+algumas das características fundamentais da literatura científica internacional 
+sobre campanhas online. Ela é, antes de tudo, pouco extensa e a razão principal 
+para isso é o fato de que campanhas realmente desenhadas para o ciberespaço não 
+existiram antes de 2000 (BIMBER; DAVIS, 2003). É, também, pouco sustentada 
+empiricamente, porque a velocidade das mudanças técnicas das campanhas online 
+desencoraja os altos investimentos em pesquisas empíricas consistentes (BRAGA, 
+2014). De todo modo, essa literatura especializada documenta e analisa as e-
+campanhas desde o seu início e inclui vários tipos de campanhas (presidenciais, 
+para governadores, senadores e deputados, parlamentares) em alguns países. As 
+eleições de 2000 e 2001 foram as mais e melhor documentadas: Bimber e Davis 
+(2003), Stromer-Galley e equipe (2001) e Coleman (2001) dão volume à primeira 
+fase das campanhas. Já o artigo de Gueorguieva (2008) sobre o uso do YouTube e 
+blogs pelos pré-candidatos democratas nas eleições de 2006 e do artigo de 
+Williams e Gulatti (2008) sobre o emprego do Facebook nas primárias 
+presidenciais de 2008 encorpam a segunda fase. No caso específico do Brasil, foi 
+a partir das eleições de 2010 que a presença e atuação virtual dos candidatos 
+deram um salto diferente de tudo já visto no país. Já no primeiro ano de 
+propaganda eleitoral permitida em uma rede social, no caso o Twitter, esse 
+fenômeno foi algo não apenas percebido no comportamento estratégico das 
+campanhas, mas também no comportamento dos usuários, o que levou as 
+ferramentas digitais a ganharem uma importância ainda maior (MARQUES; 
+SAMPAIO; AGGIO, 2013).  
+A diferença agora, após a experiência política propiciada pela campanha 
+eleitoral e por algumas iniciativas implementadas durante a primeira fase do 
+governo Obama, onde os recursos das novas tecnologias foram amplamente 
+empregados para dinamizar as instituições mais tradicionais das democracias, tais 
+como a participação e a competição no processo de escolha de elites políticas 
+alternativas, e não para criar um novo “modelo de democracia”, reside no fato de 
+que o debate parece estar focado em questões com maior rendimento analítico do 
+ponto de vista do observador político e mais estimulantes do ponto de vista dos 
+estrategistas de campanha. Questiona-se: como a internet pode agregar valor às 
+campanhas eleitorais, dinamizando e tornando mais eficazes os vários processos 
+que as constituem? Qual a possibilidade do fenômeno Obama vir a se repetir em 
+
+ 
+ 
+30 
+
+outros contextos histórico-institucionais e culturais e com que grau de 
+intensidade? Como, em suma, os novos recursos possibilitados pela Internet 
+podem reconfigurar e reformatar o funcionamento de algumas instituições-chave 
+das democracias representativas, especialmente as campanhas eleitorais (BRAGA, 
+2013)? 
+Não são poucos os estudos focados em observar o comportamento online 
+dos políticos no ambiente digital a partir de análises sobre o conteúdo político 
+presente em seus sites e perfis em redes sociais. A suposição mais plausível para 
+explicar essa migração política ao universo virtual é que os políticos aproveitam-
+se das facilidades oferecidas por essas novas ferramentas para se concentrarem no 
+lado da oferta da comunicação política digital e se envolverem diretamente não 
+apenas com sua base eleitoral como também com outros eleitores em potencial 
+(BIMBER, 2003). Não por acaso, trabalhos empíricos têm demonstrado que esses 
+meios digitais são ambientes ideais que os políticos "preguem para os 
+convertidos" (NORRIS, 2002), impactando nichos específicos de apoiadores 
+enquanto a grande maioria das pessoas está atenta ao cenário (BIMBER; DAVIS, 
+2003). Porém, sabe-se que quase todos os políticos em campanha, assim como a 
+maioria da população mundial, está no universo online, e ainda assim grande parte 
+de indivíduos e políticos não se encontram tão facilmente na Internet. 
+Atualmente, é difícil encontrar um candidato em campanha sem possuir 
+algum tipo de presença na web, seja ela via site, blog oficial e/ou perfis em redes 
+sociais, principalmente nos grandes centros urbanos. Porém, essa adesão maciça 
+ao ambiente online que hoje é uma tendência entre agentes e partidos políticos 
+(GULATI; WILLIAMS, 2011), teve na campanha que elegeu Barack Obama ao 
+seu primeiro mandato à frente da Casa Branca, em 2008 o seu principal modelo de 
+uso político efetivo da Internet e suas ferramentas sociais durante o período 
+eleitoral. O surpreendente desempenho de Barack Obama estava em grande parte 
+associado à incomum habilidade de emprego das ferramentas de comunicações 
+online por sua campanha, tendo ela alcançado e estabelecido novos padrões de 
+campanha online. Conforme lembrado por Wilson Gomes (2011), ainda durante 
+as primárias do Partido Democrata em 2008, Michael Cornfield - cientista político 
+americano e diretor de pesquisa do Projeto Democracia Online da Universidade 
+George Washington - já havia notado que: 
+
+ 
+ 
+31 
+
+sem internet não haveria Obama. A diferença de compreensão, entre as 
+campanhas de Obama e Clinton, sobre o que se pode realizar por meio da política 
+online foi o fator decisivo nessa que foi a maior reviravolta na história das 
+primárias presidenciais. Basta ver o dinheiro que Obama arrecadou com doações 
+online, os vídeos que produziu e postou no Youtube e, acima de tudo, os milhões 
+de pessoas que aderiram online à campanha de Obama, em seus tempos e termos 
+próprios (GOMES, 2010).  
+
+O trabalho desenvolvido na web durante a primeira campanha de Obama à 
+presidência dos EUA é considerado por especialistas como outlier entre as e-
+campanhas políticas por derrubar antigos tabus sobre o real impacto da Internet no 
+jogo político. Os números obtidos por Obama são de fato impressionantes. 
+Segundo dados do artigo Politics 2.0 de Wilson Gomes (2011), foram registrados 
+que 35% de todos os cidadãos com idade eleitoral nos Estados Unidos assistiram a 
+algum vídeo online relacionado à campanha. Mais importante, 18% dos adultos e 
+25% dos usuários de internet relatavam que tinham entrado online para baixar 
+e/ou assistir vídeos de natureza política que não eram provenientes das campanhas 
+ou das empresas de jornalismo e 29% dos adultos e 39% dos usuários de internet 
+se conectaram para ver debates políticos, discursos e declarações de candidatos. 
+No que se refere ao uso de mídias sociais, registrava-se em junho que 
+surpreendentes 10% dos adultos e 14% dos internautas americanos usaram o 
+Facebook para atividades políticas. Destacava-se, ademais, que “66% dos usuários 
+de internet com idade abaixo de 30 anos tinham um perfil em algum tipo de site 
+de rede social online e que metade destes usavam tais sites para obter ou 
+compartilhar informação política”.  
+É improvável pensar que, até 2004, as e-campanhas não eram consideradas 
+capazes de mudar o voto dos que já tinham posição política ou de exercer efeito 
+mínimo sobre os indecisos e mesmo no que se refere aos militantes teriam apenas 
+uma modesta tendência de reforçar as suas predisposições (BIMBER; DAVIS, 
+2003, p.144-145). Que não se deixe de registrar que entre o pessimismo de Bruce 
+Bimber e Richard Davis e o entusiasmo profético de Michael Cornfield há o 
+intervalo de apenas uma eleição presidencial (GOMES, 2011). 
+
+ 
+ 
+ 
+3 
+Mídias sociais e eleições 
+
+Até aqui foi apresentado, nesta discussão teórica, um panorama geral do 
+uso da internet em contexto eleitoral, apontando as principais correntes e teorias 
+referentes ao assunto. Neste segundo capítulo o intuito é aprofundar as questões 
+concernentes às mídias sociais e sua apropriação por políticos em campanha, 
+percebendo os possíveis usos estratégicos deste tipo de ferramenta para fins 
+eleitoreiros.  
+
+3.1 
+O uso das ferramentas digitais por políticos em pleito eleitoral 
+
+Seja no horário "comercial" ou "eleitoral", parte da academia destaca que 
+político em campanha fala diante de um público passivo via meios tradicionais de 
+comunicação de massa. A interação, nesse contexto, fica restrita basicamente ao 
+raro contato pessoal e, não à toa, alguns autores apontam o potencial da internet 
+de suprir essa insuficiência, como um ambiente capaz de abrigar formas de 
+mediação de modo a insuflar o diálogo e a participação cidadã durante período 
+eleitoral. Sugere-se, por exemplo, que a internet oferece ferramentas realmente 
+capazes de estabelecer contato direto entre o candidato e o eleitorado, 
+independentemente dos veículos tradicionais de comunicação (MAIA; GOMES; 
+MARQUES, 2011; MARQUES; SAMPAIO; AGGIO, 2013), afinal, a web 
+possibilita que candidatos e cidadãos interajam em diversos níveis ao permitir que 
+dialoguem através dos mecanismos de participação das principais redes sociais, 
+troquem e-mails, debatam assuntos de interesse público em chats, fóruns e até 
+mesmo em grandes conferências (MARQUES; SAMPAIO; AGGIO, 2013). As 
+campanhas online passaram a ser tratadas, basicamente, como um novo meio de 
+comunicação político-eleitoral em que muitas expectativas foram depositadas nas 
+potencialidades de uma nova maneira de produção de comunicação política, 
+mudando estratégias de persuasão típicas dos veículos de comunicação de massa 
+tradicionais como televisão e rádio, dedicando mais tempo para discussões sobre 
+questões de interesse público e, o mais fundamental, estabelecendo o fim da 
+unidirecionalidade da comunicação entre candidatos e cidadãos comuns, 
+
+ 
+ 
+ 
+ 
+ 
+33 
+
+aproximando-os através de ferramentas de comunicação dialógica (AGGIO, 
+2010).  
+Logo vieram as plataformas sociais, que se tornaram uma importante 
+ferramenta à disposição dos partidos, candidatos e marqueteiros e, ainda, dos 
+próprios eleitores na manifestação de sua preferência, haja vista as milhares de 
+postagens de cunho político que invadiram o Twitter e o Facebook na recente 
+disputa presidencial brasileira. No caso particular do Twitter, a rede social de 
+publicações ligeiras em poucos caracteres se tornou uma das primeiras 
+plataformas digitais a ser usada de forma bem sucedida como veículo de 
+comunicação política entre políticos e cidadãos na web. Seu sucesso foi tão 
+grande que acabou atraindo instituições públicas, atores sociais e políticos, 
+veículos de comunicação e jornalistas, líderes políticos, partidos, movimentos 
+sociais e cidadãos com posições e interesses diversos que interagem, consomem, 
+produzem e circulam informações de interesse público diariamente (PARMELEE; 
+BICHARD, 2012), inclusive no contexto brasileiro (ROSSETTO; CARREIRO; 
+ALMADA, 2013). 
+Antes de aprofundar os conceitos em torno dessas mídias sociais bastante 
+utilizadas atualmente, sendo uma delas, o Facebook, objeto desta pesquisa, vale 
+destacar o estudo realizado Vaccari (2008), no qual o autor chama a atenção para 
+o desenvolvimento da mobilização de eleitores durante campanhas a partir da 
+utilização de um site chamado Meetup, muito famosos durante as eleições 
+presidenciais americanas, disputada por Al Gore e George W. Bush. 
+Aproveitando-se do fato de que a Internet havia se tornado um importante tema 
+quando o candidato republicano chamou seu opositor de mentiroso por afirmar 
+que era o “inventor da Internet”, Vaccari (2008) observou o uso do Meetup, 
+plataforma que pode ser considerada o embrião das redes sociais, com um foco 
+direcionado a aproximar cidadãos de regiões próximas e organizar encontros e 
+atividades presenciais. Valendo-se desse recurso, estima-se que as campanhas de 
+Al Gore e George Bush, juntas, engajaram 450 mil cidadãos em 225 mil 
+atividades informais. Dessa maneira, os eleitores se transformam em micro-
+unidades de operações de campanha, o que levou o autor a atribuir às campanhas 
+online a função maior de mobilização, uma vez que mobilizar voluntários é mais 
+eficaz do que aplicar esforços diretos para conquistar novos eleitores.  
+
+ 
+34 
+
+Entre as mídias digitais, anteriores às redes sociais, uma delas veio a fazer 
+sucesso como plataforma de comunicação política online, sendo a primeira 
+ferramenta a surgir, passando a ser agregada aos sites oficiais de campanha como 
+arquivo de postagens: o blog. A frequência de atualização e a interatividade entre 
+os candidatos ou equipes de campanha com eleitores ajudaram as campanhas a 
+elaborar referências entre si e conectar seus discursos e conteúdos a outros blogs, 
+expandindo o alcance dos seus conteúdos a partir de uma blogosfera. Sobre isso 
+existe um caso isolado de utilização marcante dos blogs como ferramentas de 
+campanha política (AGGIO, 2010). Trata-se de Howard Dean, então candidato às 
+primárias democratas norte-americanas, que utilizou a plataforma para estabelecer 
+maior contato com seu eleitorado, divulgar mensagens de campanha e eventos, 
+discutir com os eleitores e incorporar sugestões e críticas. Em 2008 os blogs 
+continuaram sendo uma ferramenta de peso na efetividade das campanhas online. 
+Foi quando a conselheira da America Online Regina Lewis disse que “o uso da 
+Internet é o equivalente a bater na porta e cumprimentar o eleitor”.  
+Os blogs, porém, ainda guardam limitações no que diz respeito à 
+capacidade de dialogar diretamente com o eleitor. Apesar de a plataforma 
+permanecer fundamental e ocupar uma posição central das atividades de 
+campanha, as campanhas online passaram a deslocar seus esforços para a enorme 
+rede online de potenciais interativos, como é o caso das redes sociais. 
+Gueorguieva (2008) demonstra o poder do Facebook em particular a partir do 
+exemplo de um candidato do estado americano de Maryland, Peter Franchot's, que 
+em 2006 recrutou 80% do seu voluntariado através das redes sociais. Gulati  e 
+Williams (2011) apontavam para o fato de que o Facebook ainda forneceu 
+serviços aos seus usuários dedicados à busca por candidatos de acordo com suas 
+filiações partidárias, estado, cidade ou nome. Em relação aos blog e sites estáticos, 
+tanto Facebook quanto Twitter possuem propósitos diferentes, como fornecer a 
+possibilidade de cidadãos, distantes geograficamente, se identificarem e formarem 
+comunidades de interesse que podem planejar ou se inserir em atividades 
+presenciais tradicionais. A possibilidade de armazenar vídeos sem qualquer custo 
+possibilita que o conteúdo de campanha seja distribuído por mecanismos 
+facilitadores de publicação e distribuição por parte dos cidadãos imersos nas redes 
+sociais online constituídas nos media sociais. O próprio Youtube é considerado 
+uma rede social na medida em que oferece a possibilidade de criação de páginas 
+
+ 
+ 
+ 
+35 
+
+personalizadas para os candidatos onde todos os vídeos publicados são 
+apresentados, além de oferecer, como em um formato blog, seções para 
+comentários onde discussões e indicações de outros conteúdos podem se 
+estabelecer entre eleitores (AGGIO, 2010). 
+Com efeito, portanto, diversos autores têm procurado analisar os impactos 
+que a Web provoca e pode provocar sobre a democracia contemporânea. Alguns 
+chegam a vislumbrar a emergência, por meio da Internet, de uma nova 
+modalidade de democracia, a “democracia direta eletrônica”, sistema pelo qual os 
+cidadãos estariam em um ambiente virtual de deliberação sobre os temas de 
+interesse comum. Não é de hoje que as campanhas online vêm se tornando objeto 
+de relevância nos campos da ciência e comunicação política em um processo que, 
+desde as suas primeiras experiências, que remontam às campanhas norte-
+americanas até um conjunto de questões caras à comunicação política é levantado 
+e discutido na literatura acadêmica especializada (AGGIO, 2009). Levado em 
+consideração todo o processo evolutivo o qual as campanhas digitais foram 
+submetidas ao longo desses quase 25 anos, faz-se necessária a retomada de 
+algumas das principais teorias ligadas ao estudo da comunicação política nas redes 
+sociais em períodos eleitorais. Atualmente, a utilização de recursos e ferramentas 
+digitais associados à Internet por parte de campanhas eleitorais empreendidas por 
+candidatos e partidos tem ganhado uma importância crescente nos últimos anos, 
+produzindo casos emblemáticos como a primeira eleição de Obama nos Estados 
+Unidos.  
+Ainda em 2007, a equipe do então senador por Ilinois, Barack Hussein 
+Obama contratou Chris Hughes, um dos fundadores do Facebook, para chefiar sua 
+campanha online ainda nas primárias. A coordenação da campanha por um dos 
+criadores da maior rede social online no mundo levou, naturalmente, a um 
+emprego das chamadas mídias sociais como nunca antes tinha sido visto na 
+política. Tanto pelo histórico de Chris quanto pela dimensão da rede social online, 
+a equipe de Obama investiu U$643.000 apenas no Facebook (GOMES, 2011). 
+Nesta rede social, personalidades, marcas e produtos podem optar por ter uma 
+“página” ao invés de “perfil” como os usuários comuns. Além disso, a campanha 
+online de Obama foi endereçada ao público mais jovem, portanto mais afeito à 
+utilização de tecnologia. 
+
+ 
+36 
+
+À margem das já existentes, foi criada uma rede social interna e 
+independente chamada de “MyBarackObama”, ou simplesmente “MyBO”. À 
+diferença de um site de relacionamento comum, as características destacadas nos 
+perfis dos usuários são relacionadas ao engajamento político: eventos produzidos; 
+presença a eventos; ligações feitas; visitas de porta em porta; número de postagens 
+no blog; doações para a campanha; montante levantado; e grupos inscritos 
+(GOMES, 2011). A interação entre os usuários é, portanto, direcionada à 
+mobilização. Em redes sociais, os usuários podem exibir o volume do seu capital 
+social em virtude da dimensão da sua rede de amigos exibidos, das comunidades 
+de que participa, de formas de reconhecimento produzidas pelos participantes da 
+sua rede em indicações que estabelecem. Ficou fácil perceber que, com o passar 
+dos anos, o discurso, as preocupações e as experiências empíricas relacionadas às 
+campanhas online direcionavam seu foco para os potenciais de mobilização, 
+engajamento e ativismo relacionados às características da internet, reconfigurando 
+os potenciais de provimento de informações não mediadas pelos media noticiosos 
+e interatividade no plano dialógico característicos da fase dedicada aos sites de 
+campanha (AGGIO, 2010). 
+De lá pra cá, o uso da internet nas campanhas evoluiu, deixando de 
+consistir apenas na divulgação do dia a dia dos candidatos, em pedidos de votos 
+ou na discussão de suas plataformas de campanha. A rede passou a ser também 
+um espaço disponível a ferramentas que permitam às equipes de campanha 
+conhecer melhor seu eleitorado e assim moldar suas estratégias, adequando da 
+maneira mais precisa as publicações às expectativas da população (KARLSSON, 
+2013).  Além disso, há uma vasta gama de pesquisas focadas em observar o 
+comportamento dos políticos no ambiente digital, com ênfase em identificar quais 
+"novas e amplas possibilidades" oferecidas pelas novas 
+tecnologias são 
+objetivamente capazes de reduzir os custos iniciais de marketing político e de 
+comunicação direta com os cidadãos. Esse súbito interesse vem respaldado na 
+intensa migração de políticos para o universo online principalmente em períodos 
+eleitorais (NIELSEN, VACCARI, 2013) e os motivos mais aparentes são mesmo 
+as facilidades oferecidas por essas ferramentas digitais em se envolver 
+diretamente não apenas com sua base eleitoral como também com outros eleitores 
+em potencial (BIMBER, 2003) presentes na web.  
+
+ 
+37 
+
+Num passo dissonante, pesquisas empíricas do mesmo campo de estudo, 
+mas voltadas para a análise do comportamento de cidadãos e não de políticos na 
+Web, vão sugerir que é precipitado afirmar que a comunicação direta em larga 
+escala entre as pessoas e os políticos seja a norma online. Isto porque plataformas 
+como o Facebook, por exemplo, atribuem aos seus usuários o poder de controlar 
+os conteúdos que serão “curtidos” e compartilhados no processo de comunicação. 
+Como resultado, para que a comunicação direta entre políticos e cidadãos ocorra 
+nessa rede social em especial, os “curtidores” devem optar por se envolver em tal 
+relação. Os meios digitais em geral permitem que eleitores interessados conectem-
+se diretamente com os candidatos (NORRIS, 2003).  
+Nesse contexto, optou-se nesta pesquisa, por um acompanhamento do uso 
+do Facebook por oito candidatos à reeleição ao cargo de Deputado Federal do Rio 
+de Janeiro nas eleições majoritárias de 2014. Trata-se de um recorte de uma área 
+de pesquisa que vem se constituindo há quase 20 anos, desde as fases mais 
+rudimentares da comunicação digital e que guarda uma relação de proximidade 
+com outras frentes de pesquisa e reflexão teórica dedicadas à interface entre os 
+meios digitais e valores e práticas da democracia (AGGIO, REIS 2013). 
+Com base em estudos teóricos e empíricos é possível afirmar que desde as 
+eleições presidenciais de 2010, um engajamento online ativo precisa ir além de 
+simplesmente ter um website como parte da definição do que é uma campanha 
+profissional. Não à toa, a grande maioria das campanhas vem utilizando as 
+plataformas de mídia social como parte de seu arsenal de divulgação (GULATI; 
+WILLIAMS, 2011), sugerindo que a Internet e suas diferentes mídias – 
+crescentemente parte integral da vida cotidiana para a maioria da população – 
+passaram a ser complementos necessários para as outras formas de comunicação 
+política. Exemplo disso é que em países democráticos como o Brasil, onde é 
+inegável a enorme presença de pessoas no ambiente online e, principalmente, nas 
+redes sociais, a comunicação direta entre políticos e cidadãos comuns soa 
+razoavelmente plausível se levar em conta que é um país onde o acesso à Internet 
+estaria longe de ser um fator consideravelmente limitante (VACCARI; NIELSEN, 
+2013).  
+Não são raros os pesquisadores que têm abordado a questão do significado 
+da ascensão das mídias digitais para os processos de comunicação política de 
+diferentes maneiras. Quando se trata de compreender as implicações da 
+
+ 
+38 
+
+comunicação política na esfera digital, alguns estudiosos têm se centrado sobre a 
+forma como políticos usam essas ferramentas e argumentam que elas facilitam a 
+comunicação direta em larga escala com os cidadãos. Já outros estudiosos 
+preferem focar suas análises em compreender o comportamento político das 
+pessoas nesse ambiente virtual e preferem advertir sobre o pressuposto de que as 
+e-campanhas alcançariam grandes audiências na web.  
+Autores de diferentes nacionalidades já haviam constatado que as mídias 
+sociais "trouxeram ao jogo político um ambiente ideal para o ganho de alcance e 
+visibilidade do conteúdo produzido pelo candidato em grande escala e a um custo 
+muito mais baixo se comparado aos métodos tradicionais de propaganda política, 
+quando não nulo” (GUEORGUIVA, p. 288); e que a fácil integração e 
+compartilhamento de publicações e diferentes mídias em redes de interação 
+instantânea como Facebook e Twitter permitem que "congressistas e sua base 
+eleitoral possam discutir assuntos e questões políticas diretamente” (GOLBECK, 
+p. 1620), sem a necessidade de intermediários. Neste caso, a academia vai propor 
+teorias e pesquisas focadas no comportamento dos políticos sobre quais seriam as 
+pré-condição ideais para que isso de fato ocorresse. Na visão autores como 
+Cristian Vaccari, concentrados tanto nas estratégias empíricas de campanha 
+quanto na comunicação com as bases eleitorais, mesmo com cada vez mais 
+candidatos e cidadãos presentes online, não basta que eleitores curtam ou sigam 
+perfis político na Internet. É preciso que essas pessoas prestem atenção aos 
+políticos e sobre o que eles estão falando nas redes sociais (2012) para estarem 
+conectados.  
+Por outro lado, existem correntes teóricas que vão reconhecer no uso da 
+web tendências para a auto-seleção e o geralmente baixo interesse da grande 
+maioria dos usuários dessas mídias nos assuntos públicos como fatores que 
+dificultam a comunicação política na Internet, a partir de análises do conteúdo 
+presente em seus sites, perfis em redes sociais etc. Para autores como Edwin 
+Chadwick (2009), a desproporcional e enviesada distribuição de atenção do 
+público em relação ao conteúdo político postado nas mesmas mídias online 
+sugerem que a propagação destas plataformas raramente permite o tipo de 
+comunicação direta em larga escala entre políticos e pessoas comuns conforme 
+defendido anteriormente. Suas implicações políticas seriam mais frequentemente 
+dependentes de como esses veículos são usados como plataformas para 
+
+ 
+39 
+
+comunicação indireta sobre política (CHADWICK, 2009) e de como elas são 
+integradas a uma gama de mudanças institucionais e em estruturas internas na 
+forma como agentes políticos se organizam e comunicam (BIMBER, 2003; 
+CHADWICK, 2007). Esse estudo, porém, está situado na discussão mais ampla 
+de mídia digital e comunicação política. Conforme o propósito principal desse 
+trabalho, uma análise mais detalhada foi feita sobre o conteúdo publicado pelos 
+candidatos e sua capacidade de estimular no público ações de interação – curtir, 
+compartilhar e comentar – no Facebook. Seu resultado vai sugerir que possam 
+existir formas estratégicas capazes de extrair o máximo do potencial viral de cada 
+uma das publicações e seus respectivos temas (VACCARI; NIELSEN, 2013). 
+Tratando apenas do âmbito eleitoral, as mídias digitais podem oferecer 
+alternativas reais para a evolução do cenário das campanhas, como é o caso do 
+fomento de espaços públicos onde haja o livre diálogo e não apenas a já conhecida 
+comunicação unilateral. Na visão de autores como Stromer-Galley (2000), locais 
+online de participação e deliberação como as redes sociais, salas de bate-papo, 
+fóruns de debate online ou até mesmo o simples disparo de e-mail marketing 
+atribuem maior legitimidade às pretensões eleitorais de agentes do campo político, 
+ampliando a participação do cidadão.  
+Um dos principais valores atribuídos às campanhas na web sempre foi a 
+possibilidade real de comunicação direta entre cidadão e candidato. Mas nos 
+últimos anos, e muito graças à expansão do uso das redes sociais, passou a se 
+destacar o diálogo entre os próprios eleitores, a prescindir de uma comunicação 
+dialógica com o partido ou candidatos, em vista da criação de mobilizações e 
+atividades políticas em torno de uma candidatura (AGGIO, 2010). Nesse caso, as 
+campanhas online podem funcionar sob a perspectiva de manter os eleitores em 
+zonas de conforto, ou ainda, exigir diferentes formas de mobilização e 
+engajamento de acordo com o próprio interesse do cidadão (GOMES, 2004). Por 
+essa razão são dotadas de uma complexidade de condicionantes que, na visão de 
+Marques e Sampaio (2010), podem ser classificadas em três: provimento de 
+informações políticas, novos mecanismos de participação civil e mais 
+transparência. Essas dimensões, segundo os autores, funcionariam como 
+instrumentos analíticos que delimitariam as particularidades da comunicação 
+digital envolvida nas campanhas atualmente (MARQUES; SAMPAIO, 2010). 
+
+ 
+ 
+ 
+40 
+
+Tratando o assunto de forma mais ampla, os new media abrem espaço para 
+toda uma nova discussão acerca não apenas do sucesso estratégico de campanhas, 
+mas também do fortalecimento de propriedades cívicas e democráticas junto à 
+sociedade. Já que uma vez conectados, tanto candidatos quanto partidos podem 
+apresentar com mais profundidade suas plataformas de campanha. Em websites, 
+por exemplo, é possível armazenar uma considerável quantidade de conteúdos que 
+não estariam disponíveis através, apenas, dos suportes 
+tradicionais de 
+comunicação. Além, claro, das melhores oportunidades de controle social por 
+parte dos cidadãos sobre candidatos e representantes eleitos (AGGIO, 2013). 
+A respeito desses novos mecanismos de participação podemos destacar a 
+possibilidade de fóruns de discussão online, onde haja discutibilidade de assuntos 
+de interesse público com visibilidade e grande adesão. A informação política de 
+procedência confiável e transparência nas contas públicas, ambas disponível na 
+Web, e numa linguagem acessível à maioria são aprimoramentos possíveis num 
+ambiente de interação sem limites de tempo ou espaço. 
+Se por um lado é quase um axioma dizer que a internet tem um grande 
+potencial de tornar a participação civil mais fácil e veloz, permitindo aos cidadãos 
+participarem das decisões tomadas nas esferas governamentais, nada disso é 
+possível sem que haja a boa vontade dos governantes a responder ou atender às 
+demandas civis. Caso contrário, todo esse esforço participativo pode não se tornar 
+mais que uma mera sondagem por parte do alto escalão político com o objetivo 
+claro de detectar mudanças nas opiniões e atitudes públicas. Não à toa, muitos 
+autores concebem como sendo um absurdo imaginar que alguma tecnologia possa 
+criar um elo que aproxime cidadão e líderes de governo (KLOTZ, 2007). Para 
+ambos, essa relação neutralizaria a força da lei, os procedimentos regulatórios 
+entre outros códigos de conduta, despolitizando a administração da sociedade.  
+Fenômeno semelhante a este foi percebido pela autora Jennifer Stromer-
+Galley em sua avaliação sobre a comunicação política digital em campanhas para 
+governador nos Estados Unidos em 1998. Nesse caso, em particular, a autora 
+percebe certa falta de boa vontade em permitir que cidadãos interagissem com 
+seus representantes e interferir, de alguma forma, nos processos decisórios. A 
+pesquisa em questão comprovou que o disparo de e-mail marketing, uma das 
+ferramentas mais utilizadas na época, servia apenas como mais um instrumento de 
+relações públicas e disseminação de informação de campanha, em vez de 
+
+ 
+ 
+ 
+ 
+ 
+41 
+
+funcionar como meio de incrementar a participação popular (STROMER-
+GALLEY 2006, p. 6). 
+
+3.2 
+A trajetória do uso de mídias sociais em contexto eleitoral 
+
+Como visto acima, inegável que o pleno desenvolvimento dos meios de 
+comunicação de massa esteja interferindo diretamente não apenas no cotidiano da 
+população e em suas relações sociais, como também vem impondo intensas 
+transformações à política, alterando, por exemplo, o formato do discurso político, 
+a relação entre representantes e representados e o acesso ao conteúdo político 
+(MIGUEL; BIROLI, 2010). Como era de se esperar, tal avanço no campo da 
+comunicação em larga escala logo adquiriu, claro, importância fundamental nas 
+campanhas eleitorais. Políticos e candidatos passaram a priorizar o uso, 
+principalmente, das redes sociais com o intuito de usufruir de recursos 
+comunicacionais a baixo custo, como é o caso da visibilidade e do alcance, 
+característicos do universo digital. Não é de hoje que políticos, na incessante 
+busca pelo reconhecimento do eleitorado, utilizam recursos de espetacularização e 
+dramatização de fatos políticos para obter notoriedade nos meios de massa 
+(GOMES, 2004), e no universo online a prática não é diferente. Sabendo que a 
+notoriedade midiática é uma das principais condições para atingir as posições 
+mais importantes do campo político (MIGUEL; BIROLI, 2010), políticos 
+passaram a ser extremamente cuidadosos com o que torna público e a gestão do 
+escândalo político tornou-se um componente cotidiano das ações de governos, 
+partidos, parlamentares e candidatos. Neste contexto, é normal ver 
+majoritariamente os partidos e políticos em campanha preocupados em definir 
+planos estratégicos de comunicação política voltados para otimizar ao máximo a 
+capacidade viralização de cada conteúdo publicado, respeitando as características 
+estéticas e outras especificidades de cada mídia sócia (VACCARI; NIELSEN, 
+2013). 
+
+Vale 
+lembrar que as últimas campanhas eleitorais brasileiras se 
+caracterizaram pelo uso maciço da Internet, mais precisamente das mídias sociais 
+como ferramenta de propaganda pelos candidatos. O último pleito eleitoral de 
+2014 consolidou esta tendência, com virtualmente todos os candidatos aos cargos 
+majoritários e a grande maioria dos candidatos a cargos proporcionais utilizando a 
+
+ 
+ 
+ 
+ 
+ 
+42 
+
+internet e algum tipo de mídia social - especialmente Facebook e Twitter - como 
+ferramenta de comunicação e interação com os cidadãos de uma maneira geral. A 
+questão a ser colocada não é mais se os candidatos estão usando as tecnologias 
+digitais como ferramenta de campanha, mas como eles a estão utilizando e quais 
+os padrões e efeitos de uso de tais ferramentas de e-campanha na organização dos 
+pleitos eleitorais. Autores como Bruce Bimber e Richard Davis (2003, p. 145-157) 
+argumentam que o alcance e os efeitos da campanha online são limitados pela 
+natureza "seletiva" da maioria dos ambientes de Internet, que se caracterizam por 
+grandes volumes de informação política, ampla variedade de fontes e muitas 
+opções oferecidas aos usuários.  
+Talvez por isso, várias evidências demonstram que as mídias sociais e, 
+dentre elas, especialmente redes sociais como o Facebook são as plataformas 
+digitais preferidas dos candidatos em campanha. Apenas a título de exemplo, o 
+Gráfico 1, retirado do artigo de Sérgio Braga e Márcio Carlomagno (2015) 
+demonstra com fidelidade o quadro evolutivo do uso de ferramentas digitais nas 
+eleições desde as eleições de 2002 as mais recentes, de 2014. 
+
+Gráfico 1. Uso de ferramentas digitais pelos candidatos às eleições majoritárias desde 2002 
+
+FONTE: Braga, Carlomagno (2015). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+43 
+
+Pelo Gráfico 1, pode-se observar que desde 2002, quando começou a ser 
+analisado de forma mais sistemática o uso das mídias digitais e sociais pelos 
+candidatos (STROMER-GALLEY, 2014) houve um aumento significativo no 
+emprego de tais ferramentas nas eleições majoritárias. Em especial, as redes 
+sociais superaram em muito as antigas formas de comunicação política online, via 
+website oficial e disparo de e-mail marketing, quando o assunto é acessibilidade, 
+visibilidade ou alcance. Nas últimas eleições, por exemplo, já foi possível notar 
+esta mudança mesmo nas campanhas de candidatos e mesmo de partidos com 
+menos recursos políticos e visibilidade digital.  
+Como já mencionado, as redes sociais foram incorporadas diretamente ao 
+cenário eleitoral nacional somente a partir de 2010, quando a legislação brasileira 
+permitiu o uso desses tipos de mídias pelos candidatos (MARQUES; SAMPAIO; 
+AGGIO, 2013). Desde então é notória a acentuada progressão no uso destas 
+plataformas ao redor do mundo, destacando-se entre elas o Facebook, que conta 
+com a adesão da grande maioria dos candidatos, que por sua vez possuem e se 
+comunicam via fanpages atualizadas, em sua maioria diariamente. No caso 
+brasileiro, pesquisas recentes já mostraram como é frequente o uso do Facebook, 
+como observado no Gráfico 1 (BRAGA; CARLOMAGNO, 2014), ao contrário da 
+expectativa gerada por muitos de que o Twitter seria a mídia preferida em virtude 
+de sua facilidade, rapidez e capacidade de propagação de mensagem (BRAGA; 
+CARLOMAGNO, 2014).  
+O gráfico acima demonstra com clareza não apenas o declínio do uso de 
+websites como o enfraquecimento do próprio Twitter perante o Facebook nas 
+eleições de 2014. É fato que em um cenário eleitoral cada vez mais conectado, a 
+elite política se lançou sobre essas novas ferramentas digitais buscando uma forma 
+menos custosa e mais prática de mobilizar apoiadores, difundir ideias e atingir 
+novos potenciais eleitores. Deste ponto em diante, o que se passa a discutir é se há 
+êxito nessa nova relação comunicacional entre candidato e eleitor. Algumas 
+variantes serão determinantes para o sucesso desta empreitada (VACCARI, 2012), 
+dentre elas: a) quais recursos comunicacionais estão sendo utilizados pelos 
+candidatos nas plataformas sociais; e b) o comportamento dos eleitores ao 
+interagir politicamente nas redes sociais.  
+Muitos são os estudos empíricos, produzidos nos últimos anos, voltados 
+para a análise das potencialidades destas novas mídias e seus possíveis impactos 
+
+ 
+ 
+ 
+ 
+ 
+44 
+
+no próprio conceito de democracia, na forma como ocorre e se entende a 
+representação política (COLEMAN, 2001), como se organizam campanhas 
+eleitorais (AGGIO, 2010, PENTEADO, 2012), entre outras questões. Sendo 
+assim, é mais que justificável uma análise mais apurada sobre a forma como essas 
+ferramentas estão sendo utilizadas pelas candidaturas e suas consequências no 
+incremento da participação civil, do estímulo ao debate de assuntos de interesse 
+público e da livre circulação de informação, capaz de gerar accountability 
+(GOMES, 2004). Para tal, foi preciso monitorar padrões de uso bem como outros 
+fatores associados, a fim de identificar, a partir dos conteúdos produzidos pelos 
+candidatos ao longo do recorte temporal proposto, suas estratégias de campanha 
+eleitoral. 
+O framework escolhido para guiar os diálogos trazidos por este subtema da 
+discussão teórica é semelhante ao aplicado por Cristian Vaccari em duas de suas 
+pesquisas (NIELSEN; VACCARI, 2014; VACCARI; NIELSEN, 2013) e, 
+posteriormente, adaptado por Sergio Braga em recente artigo (BRAGA; 
+CARLOMAGNO, 2014).  Este framework parece ser igualmente compatível com 
+este 
+trabalho por propor aprimoramentos em alguns de seus aspectos 
+metodológicos, como buscar identificar: a) qual a atenção dada pelos eleitores aos 
+políticos no ambiente online; e b) qual o real interesse das candidaturas em 
+estabelecer um contato direto com seus eleitores? 
+Sobre o primeiro questionamento, tanto Vaccari quanto Nielsen (2013) 
+fazem uma distinção entre os estudos sobre o comportamento dos agentes 
+políticos e de atuação dos eleitores nas redes sociais e argumentam que o ideal 
+para desenvolver uma pesquisa plena qualitativamente seria considerar dados de 
+ambas as partes. Contudo o que é mais comumente medido nas análises é uma 
+variável simples de curtidas e compartilhamentos que cada fanpage de políticos é 
+capaz de obter. O argumento é que se não há “curtidores” ou “seguidores”, não há 
+manifestação clara de interação ou atenção conferida pelos eleitores ao conteúdo 
+político produzido. O que utilizam, portanto, é um proxy, um indicador indireto, 
+não medindo a real interação ou atenção obtida (VACCARI;  NIELSEN, 2013). 
+O cerne do problema começa na crítica destes autores à ideia de que as 
+tecnologias digitais provocariam mudanças 
+incrementais no processo de 
+representação política, provocando a possibilidade de criação de algum tipo de 
+usabilidade que permita a representação direta em larga-escala, proposição 
+
+ 
+ 
+ 
+ 
+45 
+
+defendida por analistas como Stephen Coleman em vários de seus textos 
+(COLEMAN, 2005; COLEMAN; MOSS, 2008). Outros autores, por sua vez, 
+observam a adoção dessas funcionalidades não no sentido de alterar a forma de 
+representação ou de difundir uma interação permanente e em larga escala com os 
+cidadãos, seguindo o modelo da representação direta, mas para o estabelecimento 
+de vínculos mais estreitos com os apoiadores mais próximos para, através deles, 
+alcançar o público geral (VISSERS, 2009; MARQUES; MIOLA, 2014).  
+Na busca por compreender as razões que levam esses cidadãos comuns 
+não apenas a se cadastrar espontaneamente às mídias digitais, como também a 
+interagir com perfis políticos e de interesse público, foi possível constatar que a 
+maioria das pessoas opta por aderir às mídias sociais, ao invés de serem 
+impactadas por mensagens involuntariamente (BIMBER; DAVIS, 2003, p.147-
+157). Uma possível explicação pode ser encontrada no campo teórico da 
+participação política, onde a rede social é vista como um ambiente com inúmeros 
+potenciais para o incremento da participação direta do cidadão em questões de 
+interesse público, capazes de ajudar o eleitor não apenas a participar de plebiscito 
+com também a se relacionar diretamente com políticos e candidatos, na 
+perspectiva de se constituir o ideal republicano de autogovernância (GOMES, 
+2010, p. 4). Nesse contexto, a internet e os novos meios de comunicação 
+apresentam potencial de reversão dessa apatia e descrença na política, aumentando 
+as possibilidades e a oferta de instrumentos de participação civil (GOMES, 2008, 
+p. 302). 
+Em contrapartida, apesar de toda a atmosfera de otimismo que circunda as 
+funcionalidades das mídias digitais, é possível perceber pela baixa relevância que 
+a maioria dos eleitores ainda presta pouca atenção ao conteúdo políticos presente 
+nessas plataformas e apresenta um interesse limitado na política apesar de 
+“curtirem” e/ou “seguirem” os perfis políticos (BIMBER, 2003). Reflexo das 
+críticas apontadas às democracias contemporâneas, incapazes de satisfazer até 
+hoje uma série de requisitos básicos da democracia, materializadas em um cenário 
+de descrença na política, apatia do eleitor, desinteresse cidadão, visão pessimista 
+da política e dos políticos além da ausência de soberania popular (ITUASSU; 
+AZEVEDO, 2013, p. 80). 
+No que tange às estratégias de comunicação política das campanhas nas 
+redes sociais, as curtidas, contestações e replicações de mensagens são 
+
+ 
+ 
+ 
+ 
+46 
+
+importantes instrumentos para o engajamento de eleitores Desse modo, ao analisar 
+os 
+fatores que 
+implicam na baixa ou alta 
+recorrência de 
+interação, 
+invariavelmente, uma dimensão importante da mobilização espontânea de 
+curtidores está sendo contemplada. Porém, faz-se necessário salientar que, embora 
+extremamente relevantes, as análises sobre níveis de interação no Facebook 
+possuem limitações. A quantificação do número de curtidas, comentários e 
+compartilhamentos não é suficiente para avaliar com precisão o grau de 
+visibilidade que um post atinge. Pode-se argumentar, por exemplo, que as 
+mensagens compartilhadas circulam, sempre, pelas mesmas redes ao invés de se 
+expandir, em graus variados, a outros “aglomerados” de usuários (AGGIO, REIS, 
+2013). Mais do que observar a relação entre postagem e interação, a pretensão 
+aqui é verificar a existência de correlação entre determinados temas de postagens 
+e ações de replicações dos curtidores dos candidatos ou outros usuários expostos 
+inadvertidamente a esses conteúdos a partir do seu alcance e visibilidade. 
+Nesta perspectiva, não mais contabilizar “curtidores”, mas principalmente 
+observar a interação existente em números – curtir e compartilhar – e de fato – 
+comentários – entre o candidato e seu público apoiador faz toda a diferença para o 
+desenvolvimento qualitativo desta pesquisa. Em outras palavras, diminui-se a 
+importância do número de “likes” e da quantidade de posts publicados por cada 
+deputado, a questão chave passa a ser: 1- verificar se existe interação entre as 
+partes; e 2- coletar dados em busca de indícios, menções ou amostras reais dessa 
+interação.  
+Trazendo a discussão para os dias de hoje, uma prática comum entre os 
+usuários do Facebook, assim como os do Twitter, é a mobilização em prol ou 
+contra certos tópicos específicos, elevando a discussão ao topo do ranking dos 
+assuntos mais comentados na web através da viralização – maior alcance e 
+visibilidade - em torno da questão. Não à toa, as redes sociais são identificadas 
+por alguns como um espaço de identificação e discussão, que permite a pessoas 
+desconhecidas apresentar e testar suas ideias em grupo (MARQUES; SAMPAIO; 
+AGGIO, 2013). 
+Esse estudo propõe não apenas contabilizar as ações de interação 
+relacionadas a cada um dos oito perfis analisados como também aprofundar-se na 
+leitura estratégica de seus respectivos dados digitais de interação. Este olhar 
+qualitativo sobre os comentários objetiva encontrar os tais vestígios dispostos em 
+
+ 
+ 
+ 
+47 
+
+diálogos, debates de idéias, esclarecimentos ou qualquer outra forma de 
+comunicação possível entre representante e internauta. Qualquer traço de 
+envolvimento, direto e de fato, entre um político em campanha e um eleitor 
+internauta foi considerado. Neste caso, é preciso levar em conta que o internauta 
+pode ser: a) um entusiasta da candidatura; b) um curioso indeciso; ou c) um crítico 
+ferrenho. Acredita-se que este método impulsionou a leitura dos dados colhidos a 
+um nível além do proposto anteriormente pelos autores citados. O objeto de 
+análise quantitativa será a contabilização das três ações de interações possíveis 
+presentes nos perfis profissionais no Facebook dos dois candidatos à deputado 
+federal pelo Rio de Janeiro citados anteriormente, ocorridas nos quinze últimos 
+dias de campanha permitidas durante as eleições em 2014. Já o objeto de análise 
+qualitativa será a apreciação dos comentários obtidos em cada postagem analisada 
+nos perfis profissionais de oito deputados federais reeleitos ao cargo pelo estado 
+do Rio de Janeiro, igualmente ocorridas no mesmo recorte temporal. 
+
+3.3 
+O crescimento do Facebook na comunicação política 
+
+Atualmente, no Brasil e no mundo, o uso da Internet em períodos eleitorais 
+tem sido marcado pelas redes sociais, como o Twitter e o Facebook. De acordo 
+com a revista Imprensa publicada em novembro de 2011, 79% dos 35 milhões de 
+internautas brasileiros regulares estão presentes em redes sociais (MARQUES; 
+SAMPAIO; AGGIO, 2013). Criado em 2004 nos Estados Unidos por estudantes 
+da Universidade de Harvard para ser uma rede social restrita aos seus colegas, o 
+Facebook é atualmente a rede social mais popular do mundo. A plataforma, 
+diferentemente do Twitter, permite que o seu usuário utilize espaço ilimitado de 
+caracteres para publicar suas mensagens e tenha a opção de compartilhar outras 
+mídias: fotos, vídeos e áudios, por exemplo, com amigos em sua página pessoal 
+ou com pessoas aleatórias que optarem por curtir ou receber seu conteúdo via 
+perfil profissional - fanpage. Ao fazer login no Facebook, o usuário da plataforma 
+é instantaneamente impactado por mensagens de pessoas com quem mantém 
+amizade ou “curte”. Cabe ao usuário escolher os perfis que deseja seguir 
+conforme seus interesses e recebe em tempo real suas atualizações. 
+Outra característica singular são as três ações de interação possíveis no 
+Facebook. Essas funcionalidades permitem que o usuário possa: a) “curtir” um 
+
+ 
+ 
+ 
+48 
+
+post em particular caso goste da sua mensagem e, assim, demonstrar publicamente 
+que se interessou pelo conteúdo; b) compartilhar com apenas um clique caso 
+prefira retransmitir a publicação em sua própria timeline – quadro principal das 
+próprias mensagens; e c) comentar o post caso prefira se manifestar diretamente 
+com a mensagem. Para tal, basta abrir a caixa de diálogo logo abaixo da 
+publicação e lá deixar seu comentário, público, para que todos os outros 
+“curtidores” possam ver. Uma prática comum entre os usuários do Facebook, 
+assim como os do Twitter, é a mobilização em prol ou contra certos tópicos 
+específicos, elevando a discussão ao topo do ranking dos assuntos mais 
+comentados na web através da viralização – maior alcance e visibilidade - em 
+torno da questão. Não à toa, as redes sociais são consideradas por alguns como um 
+espaço de identificação e discussão, que permite a pessoas desconhecidas 
+apresentar e testar suas ideias em grupo (MARQUES; SAMPAIO; AGGIO, 
+2013).  
+A aceitação do grande público à plataforma foi tão imediata que, três anos 
+após seu lançamento - em 2007 – o Facebook passou a ser a mais popular entre as 
+mídias sociais no planeta. Em 2014, já contabilizava mais de um bilhão de 
+usuários ativos e o sucesso de público no Brasil não foi diferente. Logo a mídia 
+social se tornou uma das mais importantes para a comunicação política nos 
+últimos anos, atraindo instituições públicas, atores sociais e políticos diversos, 
+veículos de comunicação e jornalistas, partidos, movimentos sociais e eleitores 
+que 
+interagem, consomem, produzem e circulam 
+informações gerais 
+(PARMELEE; BICHARD, 2012). É um ambiente, considerado por muitos 
+estudiosos da área, promissor para 
+interações de diversas naturezas e 
+compartilhamento de todo tipo de informação (KUSHIN; KITCHNER, 2009; 
+MENDONÇA, 2012). Isso porque é permitido aos seus participantes buscar e 
+cultivar interesses comuns, consumir informações políticas regularmente e exercer 
+seus direitos de resposta (BRYAN, 2005, p. 4). Não à toa, as redes sociais são 
+ambientes onde se encontram potenciais eleitores e ativistas, com o objetivo de 
+circular suas mensagens em caráter viral e organizar suas atividades de campanha 
+(AGGIO, 2010). 
+Examinar a relevância dos políticos atuais na web envolve não apenas 
+monitorar a presença e uso dessas várias ferramentas de Internet por suas 
+campanhas, mas olhar mais de perto para as plataformas onde as pessoas e os 
+
+ 
+49 
+
+políticos realmente se encontram online (VACCARI, 2013; NIELSEN, 2011). 
+Esse foi o motivo principal para que essa pesquisa optasse pelo Facebook e não 
+pelo Twitter, por exemplo. Além de ser a plataforma social com maior número de 
+adesões não apenas no Brasil como no mundo, o Facebook oferece três níveis de 
+interação entre “curtidor” – cidadão - e “curtido” – político - capazes de 
+transformar em números alguns possíveis indícios de engajamento na campanha 
+digital.  
+No entanto, Klotz (2007), ao analisar empiricamente as iniciativas de 
+mobilização nas eleições para o senado dos EUA em 2006, classifica como 
+"pseudo-mobilização" as ações de interação que exigem pouco tempo e esforço 
+por parte dos cidadãos e que consiste basicamente na reprodução de textos 
+compostos pela campanha através do compartilhamento de conteúdo e o repasse 
+dos mesmos para suas redes de contato ou veículos de comunicação locais como é 
+o caso da “curtida”. Para ser considerado legítimo é preciso envolver, de fato, um 
+engajamento que requeira maior esforço e comprometimento por parte dos 
+eleitores, como por exemplo, comentar e discutir algum assunto de interesse 
+público. Para Klotz (2007), o simples repasse do conteúdo político não pode ser 
+considerado um tipo de mobilização Seu argumento está ancorado no esforço e 
+tempo dedicado, que não corresponde de fato a um engajamento rico, legítimo. 
+Numa tentativa de identificar questões acerca das idéias de Klotz (2007) aplicando 
+sua teoria às funcionalidades das atuais ferramentas de interação, o autor 
+consideraria a criação de memes um ato de engajamento muito mais relevante se 
+comparado com o simples ato de compartilhamento de uma postagem em 
+particular, ainda que o criador do meme possua alcance nas redes sociais – 
+número de amigos, curtidores ou seguidores – muito inferior ao do compartilhador 
+da mensagem.  
+Para esse trabalho, a possibilidade de reproduzir publicações através do 
+compartilhamento merece destaque especial por ser uma das ferramentas mais 
+importantes e efetivas para o incremento do alcance espontâneo das mensagens de 
+campanha no Facebook. As curtidas e comentários também são compreendidos 
+como elementos capazes de gerar uma ecologia conversacional (AGGIO, 2013) na 
+medida em que ambos possuem como característica elementar expandir 
+informações, conteúdos e argumentos a diferentes redes de usuários “não 
+curtidores”. Embora seja plausível admitir que os comentários, em particular, 
+
+ 
+50 
+
+costumam iniciar discussões e debates, há que se considerar a imprescindibilidade 
+de muitas outras variáveis que competem para que esse efeito se concretize. 
+Indiscutivelmente, tratam-se de recursos voltados para incentivar a participação e 
+engajamento dos internautas com perfis de campanha com o intuito de ampliar o 
+alcance dos conteúdos gerados pelos candidatos aos cidadãos comuns e possíveis 
+eleitores presentes na Internet. Entre críticas e acertos, o mais importante a se 
+extrair dessa perspectiva é que as campanhas online inauguravam novas formas de 
+mobilização e engajamento em atividades políticas. 
+Por essa razão, a análise sobre os padrões de utilização desses recursos vai 
+mostrar na prática que a escolha dos temas das publicações não está vinculada ao 
+maior objetivo estratégico das campanhas eleitorais no uso das redes sociais: 
+alcançar o máximo de visibilidade e impacto para conquistar eleitores e votos. No 
+caso do Facebook, esses fatores costumam ocorrer de duas formas: (a) a mais 
+restrita se refere à visibilidade produzida a partir da rede de curtidores de uma 
+fanpage; (b) o outro modo permite estender essa visibilidade às redes dos amigos 
+dos curtidores dos perfis através das ações de interação entre o comunicador e o 
+receptor da informação: curtir, compartilhar e comentar. 
+A consequência desse último processo é o que se pode chamar de 
+capacidade viral de uma mensagem, isto é, o quanto é possível se obter em termos 
+de visibilidade a partir de uma mera publicação. Partindo do pressuposto 
+elementar de que a finalidade de qualquer campanha política é conquistar votos e, 
+para tal, ampliar a visibilidade espontânea do seu discurso político é condição 
+fundamental para alcançar e impactar eleitores cativos e em potencial, a 
+compreensão de se e como essas três ações de interação se relacionam com os 
+temas (VACCARI; NIELSEN, 2013) dos conteúdos é determinante para examinar 
+os fatores que incidem sobre a melhor estratégia de criação de conteúdo no 
+Facebook quando o intuito é estimular ao máximo a sua viralização. E é 
+justamente este aspecto o mais caro para a pesquisa desenvolvida.  
+
+ 
+ 
+4 
+Metodologia, empiria e resultados 
+
+Nesta seção, será apresentada a metodologia desenvolvida neste trabalho, 
+um detalhamento do objeto de análise e os resultados apresentados pelos dados. 
+Ao fim, algumas conclusões são discutidas, de modo que possam servir de 
+hipóteses para trabalhos futuros e para a parte final desta pesquisa. 
+
+4.1 
+Metodologia 
+
+Parte embrionária de uma pesquisa empírica mais ampla, esse trabalho 
+dissertativo propõe, a partir desta seção, observar analiticamente a produção de 
+conteúdo político nos perfis profissionais de oito diferentes candidatos no 
+Facebook durante campanha para o cargo de deputado federal pelo Rio de Janeiro 
+em 2014. Com o auxílio do software especializado em análise de big data e 
+crowling digital – Digicampanha –, foi possível coletar 840 postagens publicadas 
+nas fanpages e seus respectivos índices de interação – número de curtidas, 
+compartilhamentos e comentários – durante os 33 últimos dias de propaganda 
+eleitoral na Web, permitidos por lei, mais precisamente de 01 de setembro até 03 
+
+de outubro de 2014. Desenvolvido em 2016 para atender a demandas do Mercado 
+voltado para as eleições minoritárias de outubro, o Digicampanha tem por objetivo 
+fazer o máximo de coletagem, armazenamento e cruzamento de informações 
+possíveis e publicadas na rede social.  
+
+O software iniciou, no dia 24 de fevereiro, a busca nos oito perfis 
+pesquisados por esse trabalho e coletou uma série de dados, apresentados em 
+planilha e organizados da seguinte forma: 1) nome do candidato; 2) número de 
+votos em 2014; 3) número de curtidores da fanpage; 4) texto da publicação; 5) 
+data da publicação; 6) número de interações, i.e. a soma de compartilhamentos, 
+curtidas e comentários que cada candidato obteve; 7) média de interações por 
+postagem para cada candidato; 8) número de compartilhamentos; 9) média de 
+compartilhamentos por postagem; 10) número de curtidas; 11) média de curtidas; 
+12) número de comentários; 13) média de comentários; e 14) número de 
+postagens para cada um dos sete tipos de publicação, que serão detalhados mais à 
+frente. Já os dados quantitativos foram tratados com estatística descritiva e uma 
+
+ 
+ 
+ 
+52 
+
+série de correlações que envolveram também a análise qualitativa que irá ser 
+descrita a seguir.  
+A metodologia aplicada manteve seu foco voltado para a análise de todo 
+conteúdo publicado nas oito fanpages durante os dias de campanha já citados e 
+sua respectiva capacidade de promover a interação entre os usuários do Facebook. 
+Em seguida, essas publicações foram categorizadas a partir dos seus temas 
+(NIELSEN; VACCARI, 2013) com a finalidade de entender melhor se existem 
+assuntos mais propícios à interação que outros e como os “curtidores reagem a 
+cada um deles a partir da média de ações – curtir, compartilhar e comentar - por 
+post . Nesse sentido, a pesquisa foi conduzida a partir das seguintes etapas: a) 
+contabilizar o total de publicação de cada um dos candidatos e a média de suas 
+respectivas ações de interação; b) categorizar as publicações por seus respectivos 
+temas; c) identificar os temais mais propensos à interação com os “curtidores”; e 
+d) cruzar os dados coletados em de correlações estatísticas entre postagens e 
+interação.  
+Todas as 840 publicações examinadas foram categorizadas em temas 
+relacionados aos assuntos abordados nos posts. Com base no framework proposto 
+por Cristian Vaccari e Rasmus Nielsen (2014) e atualizado por Sérgio Braga 
+(2012), cada uma das 840 postagens observadas foram classificadas em sete 
+diferentes categorias. São elas:  
+a) Registro de atividades – tema voltado para as postagens relativas à 
+agenda dos candidatos e divulgar seu dia-a-dia e atividades de campanha: onde 
+esteve, está ou estará.  Exemplo retirado da página de Pedro Paulo no dia 22 de 
+setembro de 2014: “Parabéns São Gonçalo pelos seus 124 anos! Estive na manhã 
+de hoje comemorando o aniversário dessa querida cidade, com seus moradores e 
+o Deputado Estadual Rafael do Gordo”. 
+b) Apoio de terceiros – tema voltado para agrupar as postagens que 
+reproduzem publicamente o apoio de terceiros, muitos vezes personalidades à 
+candidatura dos candidatos. Exemplo retirado do perfil de Chico Alencar no dia 2 
+de outubro: “Voto e recomendo que se vote em Chico Alencar porque é político 
+ético e competente e porque é filiado ao PSOL, partido com ideário político de 
+alto nível. Padre Olinto Pegoraro, professor de filosofia”. 
+c) Pedido de voto – tema voltado para identificar as postagens onde o 
+candidato pede o voto diretamente aos seus eleitores. Exemplo retirado da página 
+
+ 
+53 
+
+de Alessandro Molon no dia 3 de outubro de 2014: “Essa turma que apóia o 
+Molon está demais! Vem você também!”.  
+d) Plataforma de campanha – tema voltado para juntar todas as postagens 
+interessadas em explicar e discutir as pretensões dos candidatos para o próximo 
+mandato. Exemplo retirado do perfil de Molon no dia 30 de setembro: “Viram no 
+jornal O Globo de hoje? Saiu o perfil de Molon com suas propostas. Vamo que 
+vamo!”. 
+e) Feitos do passado – tema voltado para definir os posts que enaltecem 
+antigas conquistas políticas do candidato em outros mandatos. Exemplo retirado 
+do perfil de Jair Bolsonaro no dia 18 de setembro de 2014: ”Em 2013, Bolsonaro 
+apresentou projeto de 
+lei 
+tornando hediondo o 
+crime passional, 
+independentemente de sua natureza sexual. Onde está o preconceito mais uma 
+vez?”. 
+
+f) Evento – tema voltado para agrupar as postagens de anúncio e 
+convocação dos internautas para eventos da campanha. Exemplo retirado do perfil 
+de Jan Wyllys no dia 9 de setembro de 2014: ”Marcha em favor dos profissionais 
+do sexo na praia de Ipanema. Vem pra rua, eu vou!”.  
+g) Pessoal – tema voltado para enquadrar às publicações de caráter ‘não 
+político’, mas sim relativos à vida privada dos candidatos. Exemplo retirado do 
+perfil de Rodrigo Maia no dia 17 de setembro de 2014: “Hoje foi dia de deixar a 
+política de lado para comemorar com os familiares”.   
+A partir daí, o material foi destrinchado tendo em vista dois eixos 
+principais. Na prática, foi primeiramente observado o potencial de alcance e 
+visibilidade de cada postagem através de uma análise quantitativa de cada uma 
+das ações de interação citadas anteriormente. Dito isso, torna-se necessário 
+elucidar que quanto maior for o número de curtidas e compartilhamentos, maior o 
+número de pessoas potencialmente impactadas com a publicação, bem como 
+quanto maior for o número de comentário e a repercussão provocada, melhor será 
+a sua reputação no espaço virtual analisado. Isso quer dizer que toda plataforma 
+digital tem uma maior “boa vontade” ao divulgar – com maior número de 
+impressões e alcance – o conteúdo de uma postagem viral, gerando visibilidade 
+espontânea, mais clicks e views. Tudo isso é metrificado em um dos algoritmos 
+específicos do Facebook, chamado “edge rank”.  
+
+ 
+54 
+
+Com isso, o objetivo desta pesquisa se constitui na avaliação do potencial 
+interativo do conteúdo postado nas fanpages dos concorrentes a deputado federal 
+pelo estado do Rio de Janeiro. Sendo assim, as questões de trabalho desenvolvidas 
+foram: 1) Que candidato aparece com maior potencial de interatividade com seus 
+curtidores no Facebook durante o período eleitoral analisado; 2) Que tipo de 
+postagem cada um dos candidatos privilegia?; 3) Que tipo de postagem apresenta 
+maior potencial de interação no ambiente eleitoral analisado?; e 4) De que forma é 
+possível relacionar a performance dos candidatos na mídia social analisada com o 
+desempenho dos candidatos nas urnas?  
+Sobre os candidatos, que serão adiante apresentados em ordem decrescente 
+a partir de suas respectivas posições na eleição aqui estudada, além de terem em 
+comum o fato de todos terem se reelegido à Câmara dos Deputados, os oito nomes 
+foram escolhidos por sua ativa atuação nas mídias sociais, em detrimento a outros 
+de partidos menores, cuja falta de recursos e visibilidade poderia afetar 
+diretamente sua presença online, como outras pesquisas já mostraram  (GULATI; 
+WILLIAMS, 2007). Dessa forma, foram selecionados os líderes das mídias 
+sociais, políticos com mais chances de influenciar e mobilizar correntes de 
+opinião no ambiente web: Jair Bolsonaro, Alessandro Molon, Chico Alencar, 
+Rodrigo Maia, Leonardo Picciani, Eduardo Cunha, Jean Wyllys e Pedro Paulo, 
+durante o recorte temporal exposto anteriormente. Assim, foi considerado vital 
+para fins de contextualização que cada um dos oito candidatos fosse previamente 
+posicionado conforme sua posição nas urnas em 2014 e apresentado a partir dos 
+seguintes dados: 1) número e média de postagem durante os 33 dias de análise; 2) 
+posição nas últimas eleições; 3) diferença entre o resultado nas urnas em 2010 e 
+2014; e 4) número de curtidores. A intenção em trazer à luz da discussão esses 
+quatro quesitos é demonstrar a representatividade de suas fanpages a partir do seu 
+posicionamento na busca orgânica do Google e na observação do número de 
+publicações e curtidores. Além disso, as indicações do número de votos 
+alcançados em 2014 e sua diferença em relação ao pleito de 2010 podem ajudar a 
+entender a estratégia de criação de conteúdo que cada um optou seguir.  
+
+a) Jair Bolsonaro (PP) 
+Posição nas eleições de 2014: 1º 
+
+ 
+ 
+ 
+55 
+
+Número de votos em 2014: 464.572  
+Número de Curtidores no Facebook: 2.326.491  
+Total e média de publicações: 41 e 1,2 posts/dia 
+
+Com o maior acréscimo de votos entre os oito deputados federais 
+analisados e o deputado federal eleito mais votado nas eleições de 2014 pelo 
+Estado do Rio de Janeiro, Jair Bolsonaro foi o candidato que registrou o maior 
+aumento no número de votos de uma eleição para outra. Bolsonaro conseguiu 
+343.926 votos a mais que em 2010, quando terminou em terceiro. Em franca 
+ascensão nas redes sociais, o político natural de Campinas prefere adotar um estilo 
+mais polêmico e confrontador nas discussões online, investindo em questões 
+sensíveis da sociedade com objetividade e posições definidas. Sua estratégia de 
+comunicação propõe o diálogo direto com um nicho específico de pessoas e as 
+consequências dessa relação podem ser percebidas nos suntuosos números que ele 
+ostenta em sua fanpage oficial, como veremos mais à frente. Fazendo-se valer do 
+mesmo sentimento “antipetista” que pode ter trazido problemas à candidatura de 
+um dos seus concorrentes – Alessandro Molon –, Bolsonaro utilizou a plataforma 
+para criticar e reforçar veementemente as opiniões contrárias ao governo do PT. O 
+sucesso do político no Facebook é tão impressionante que o candidato do Partido 
+Progressista pode ser considerado um dos maiores fenômenos políticos da internet 
+no Brasil, devido a sua capacidade de alcance, visibilidade e mobilização do seu 
+eleitorado. Reflexo disso pode ser percebido nas urnas: Bolsonaro foi não apenas 
+o candidato mais votado no Rio de Janeiro, ao conseguir 464.572 votos, como 
+também ajudou a eleger seus filhos Flávio Bolsonaro para a Assembléia Estadual 
+e Eduardo Bolsonaro, como deputado federal pelo estado de São Paulo. 
+
+e) Eduardo Cunha (PMDB) 
+Posição nas eleições de 2014: 3º 
+Número de votos em 2014: 232.706 
+Número de Curtidores no Facebook: 208.302  
+Total e média de publicações: 46 e 1,4 posts/dia 
+
+ 
+ 
+ 
+ 
+ 
+56 
+
+Atual presidente da Câmara dos Deputados, o deputado federal Eduardo 
+Cunha é evangélico e filiado ao PMDB. Um dos expoentes da bancada 
+evangélica, Cunha foi líder do seu partido em 2013 e 2014. Anteriormente ligado 
+ao Partido da Reconstrução Nacional, foi presidente das Telecomunicações do 
+Estado do Rio de Janeiro (Telerj) durante o Governo Collor. Já filiado ao Partido 
+Progressista Brasileiro, comandou a Companhia Estadual de Habitação e 
+candidatou-se pela primeira vez a deputado federal em 2002, ainda no PPB, sendo 
+reeleito pelo seu atual partido - PMDB - nas eleições de 2006, 2010 e 2014. 
+Dentre as bandeiras defendidas pelo deputado estavam: imediata apreciação das 
+reformas política e tributária, compromisso com a independência do Legislativo e 
+subsídios para os deputados equivalentes aos recebidos pelos ministros do STF 
+(Supremo Tribunal Federal). Levando em conta apenas as votações dos últimos 
+dois pleitos, Cunha apresenta números impressionantes. Se em 2010 conseguiu 
+150.616 votos, em 2014 esse número aumentou em 82.092 indicações, fazendo do 
+contestado deputado o terceiro mais votado, dessa vez com 232.708 votos. 
+Durante seu mandato de presidente da Câmara dos Deputados, está sendo 
+investigado pela Operação Lava Jato e foi denunciado pela Procuradoria-Geral da 
+República ao Supremo Tribunal Federal. Sofre, diariamente, com tentativas de 
+cassação do seu mandato como presidente da Câmara dos Deputados.  
+
+f) Pedro Paulo (PMDB) 
+Posição nas eleições de 2014: 4º 
+Número de votos em 2014: 162.403 
+Número de Curtidores no Facebook: 44.352  
+Total e média de publicações: 231 e 7 posts/dia 
+
+Pedro Paulo é economista de profissão e já foi eleito duas vezes deputado 
+federal pelo estado do Rio de Janeiro. O deputado possui experiência em gestão 
+no mercado financeiro e, em 1997, começou a trabalhar com o atual prefeito do 
+Rio, Eduardo Paes, tornando-se chefe de gabinete na Câmara Municipal do Rio de 
+Janeiro. Passou pela subprefeitura da Barra da Tijuca e Jacarepaguá, secretaria 
+municipal de Meio Ambiente e a Casa Civil da Prefeitura do Rio. Atualmente é 
+secretário executivo de Coordenação de Governo de Eduardo Paes. Eleito pela 
+
+ 
+ 
+ 
+ 
+57 
+
+segunda vez em 2014, Pedro Paulo apresentou, entre os oito perfis analisados, o 
+maior número médio de postagens durante o período observado. Foram 231 e uma 
+média de 7 postagens dia. Além disso, o candidato apresentou uma bela margem 
+de crescimento de sua primeira eleição para a última. Se em 2010 obteve 105.406 
+indicações, em 2014 atingiu 162.403, incrementando seus números em 56.997 
+votos, fato este por muitos atribuído à publica e manifesta admiração e apoio de 
+Eduardo Paes ao seu trabalho. O deputado chegou a lançar sua candidatura à 
+Prefeitura do Rio em 2016, mas foi forçado a repensar sua decisão de concorrer, 
+acusado de ter agredido a ex-mulher.  
+
+d) Leonardo Picciani (PMDB) 
+Posição nas eleições de 2014: 5º 
+Número de votos em 2014: 180.741 
+Número de Curtidores no Facebook: 7.996  
+Total e média de publicações: 49 e 1,5 posts/dia 
+
+Leonardo Picciani é filho de Jorge Picciani, ex-presidente da Alerj, e está 
+em pleno desempenho de seu terceiro mandato como deputado federal pelo 
+PMDB. Durante esse tempo, Leonardo presidiu a Comissão de Constituição e 
+Justiça, assumiu a Secretaria de Estado de Habitação por dois anos e foi relator da 
+CPI da Pirataria. Durante as eleições, o então candidato priorizou as publicações 
+relativas a registros de atividade, convidando seus curtidores a conhecer sua 
+agenda e comparecer aos eventos. Eleito pela primeira vez em 2002, com 151.942 
+votos, Picciani foi reeleito em outras três oportunidades, 2006, 2010 e 2014. Teve 
+165.630 votos em 2010 e 180.741 em 2014. Nas últimas eleições, Picciani foi o 
+quinto mais votado e apresentou um acréscimo de 15.111 votos nas urnas.  
+
+c) Chico Alencar (PSOL) 
+Posição nas eleições de 2014: 6º 
+Número de votos em 2014: 195.964 
+Número de Curtidores no Facebook: 213.151  
+Total e média de publicações: 67 e 2,1 posts/dia 
+
+ 
+ 
+ 
+ 
+ 
+ 
+58 
+
+Chico Alencar foi o sexto mais votado entre os deputados federais do Rio 
+de Janeiro em 2014, sendo eleito para o seu quarto mandato consecutivo. É 
+também membro da Comissão de Direitos Humanos e do Conselho de Ética da 
+Câmara dos Deputados, e vice-líder do seu partido – PSOL - na câmara. Filiado 
+ao Partido dos Trabalhadores desde os anos 80, foi vereador no Rio de Janeiro por 
+dois mandatos. Depois, Chico foi eleito deputado estadual e presidiu a Comissão 
+de Direitos Humanos e Cidadania. Em 2005, saiu do PT e reelegeu-se deputado 
+federal em 2006, já pelo seu atual partido, o PSOL. Em 1996 e 2008, Chico 
+Alencar concorreu à Prefeitura do Rio, tendo o terceiro lugar como seu melhor 
+resultado. Em 2010, foi eleito para exercer o seu terceiro mandato como deputado 
+federal com 210.724 votos. Nas últimas eleições, foi eleito com 195.964 
+indicações, apresentando um decréscimo de 14.760 votos nas urnas. Apesar da 
+perda de votos em relação à eleição passada, Chico Alencar foi um dos poucos 
+candidatos que não tiveram seus nomes ligados às inúmeras acusações de 
+corrupção que açolavam o cenário político no período analisado. 
+
+g) Jean Wyllys (PSOL) 
+Posição nas eleições de 2014: 7º 
+Número de votos em 2014: 144.770 
+Número de Curtidores no Facebook: 880.858  
+Total e média de publicações: 173 e 5,3 posts/dia 
+
+Jean Wyllys é professor e apareceu para o grande público após participar e 
+vencer um reality show de grande alcance na TV brasileira. O baiano foi eleito 
+deputado federal pela primeira vez nas eleições de 2010, com a menor quantidade 
+de votos entre os eleitos do Rio de Janeiro, com 13.018 (0,16%) votos válidos. De 
+fato, naquele ano, só conseguiu a vaga graças ao desempenho de outro candidato 
+do seu partido, Chico Alencar, que conquistou 240.724 (3%) dos votos na eleição. 
+Porém, nas eleições de 2014, Jean Wyllys foi reeleito como o sétimo mais votado 
+entre os deputados federais do Rio de Janeiro, com 144.770 (1,90%) dos votos 
+válidos, valor esse superior a dez vezes o número de votos da eleição de 2010. O 
+político é militante do reconhecimento do casamento civil e da união estável entre 
+
+ 
+ 
+ 
+ 
+ 
+pessoas do mesmo sexo e da regulação da atividade dos profissionais do sexo. 
+Filiado ao PSOL, Jean Wyllys foi outro que passou ileso pelas inúmeras 
+acusações de corrupção que açolavam o cenário político no período analisado. 
+
+59 
+
+b) Alessandro Molon (PT) 
+Posição nas eleições de 2014: 17º 
+Número de votos em 2014: 87.003 
+Número de Curtidores no Facebook: 55. 824  
+Total e média de publicações: 136 e 4,1 posts/dia 
+
+Despencando da 10ª posição em 2010 para a 17ª em 2014, Alessandro 
+Molon foi o candidato que apresentou a maior queda de votos entre os oito 
+deputados federais analisados: foram 42.512 votos a menos entre uma eleição e 
+outra. Individualmente, além de relatar o Marco Civil Regulatório da Internet, 
+Molon é um político conhecido por ser um grande incentivador e usuário dos 
+veículos de comunicação online. Como dito anteriormente, Molon foi o décimo 
+candidato mais votado para Deputado Federal no Rio de Janeiro em 2010, quando 
+o Partido dos Trabalhadores – o qual foi filiado até 2015 – foi a legenda que mais 
+candidatos elegeu em todo o Brasil, segundo dados do Tribunal Superior Eleitoral. 
+Já em 2014 a situação foi bem diferente. O partido vivia sob atmosfera de 
+desconfiança e um crescente sentimento de “antipetismo” tomava conta de boa 
+parte da população. Essa rejeição ao PT foi sentida nas urnas, com a queda de 
+18,3% no número de candidatos eleitos pelo partido em comparação ao pleito 
+anterior. Mesmo nesse contexto desfavorável, Alessandro Molon garantiu sua 
+reeleição, mesmo com 42.512 votos a menos que o alcançado em 2010. O 
+candidato caiu sete posições em relação ao pleito passado, sendo o décimo sétimo 
+mais votado em seu estado ao atingir 87.003 votos. Essa mobilização contrária ao 
+PT ficou evidente à pesquisa durante a etapa de coleta e leitura de dados, mais 
+precisamente na análise de comentários contrários às publicações do candidato no 
+Facebook. Não foram raros os apelos de eleitores - confiantes nos predicados do 
+político, mas desconfiados de seu partido - para que buscasse novos ares. Não por 
+acaso, já no ano seguinte à sua reeleição, Molon rompeu com seu antigo partido e 
+
+ 
+ 
+ 
+ 
+optou por filiar-se à Rede Sustentabilidade, simpatizante das propostas de inclusão 
+digital.  
+
+60 
+
+h) Rodrigo Maia (DEM) 
+Posição nas eleições de 2014: 29º 
+Número de votos em 2014: 53.380 
+Número de Curtidores no Facebook: 20.623  
+Total e média de publicações: 97 e 2,9 posts/dia 
+
+Filho do ex-prefeito César Maia, Rodrigo Maia foi eleito para seu primeiro 
+mandato de deputado federal pelo Rio de Janeiro aos 28 anos, em 1998, com 
+96.385 votos. Neste primeiro mandato, atuou como presidente da Comissão de 
+Trabalho, Administração e Serviço Público. Já em 2002, foi reeleito para seu 
+segundo mandato, com 117.229 votos e integrou as Comissões de Finanças e 
+Tributação; Constituição, Justiça e de Cidadania; Fiscalização Financeira e 
+Controle; Legislação Participativa e Relações Exteriores e de Defesa Nacional. 
+Em 2006, foi reeleito para o terceiro mandato, obtendo 235.111 votos. Em 2010, 
+foi mais uma vez reeleito, com 86.162 votos. Em 2014, a queda foi mais 
+acentuada. Foram exatos 32.782 votos a menos, e um total de 53.380 votos. 
+
+4.2 
+Análise e Resultados 
+
+O primeiro resultado que surge da análise dos dados é o de que 
+aparentemente nenhuma relação pode ser extraída da dinâmica de interações dos 
+candidatos em relação à tipologia das postagens especificada neste trabalho. 
+Como se vê na TABELA 1, a primeira das matrizes de correlação desenvolvidas 
+aqui, a variável "interações" não mostra correlação nem com o número, nem 
+com o tipo de postagem.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABELA 1 
+
+61 
+
+Correlation Coefficients Matrix
+
+Missing values removal
+
+Pairwise deletion
+
+ interações 
+
+ postagens 
+
+ RA 
+
+ AT 
+
+ PV 
+
+ PC 
+
+ FP 
+
+ Ev 
+
+ Pe 
+
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+
+ interações 
+1.
+
+ postagens 
+
+ RA 
+
+ AT 
+
+ PV 
+
+ PC 
+
+ FP 
+
+ Ev 
+
+ Pe 
+
+-0.27927
+0.15367
+-0.7124
+0.50296
+accepted
+-0.02679
+0.16655
+-0.06564
+0.94979
+accepted
+-0.33152
+0.14835
+-0.86072
+0.42245
+accepted
+-0.29526
+0.15214
+-0.75698
+0.47773
+accepted
+0.01104
+0.16665
+0.02704
+0.97931
+accepted
+-0.46854
+0.13008
+-1.29912
+0.24159
+accepted
+-0.02086
+0.16659
+-0.05112
+0.96089
+accepted
+-0.19756
+0.16016
+-0.49366
+0.63909
+accepted
+
+1.
+
+0.75627
+0.07134
+2.83141
+0.0299
+rejected
+0.95901
+0.01338
+8.29005
+0.00017
+rejected
+0.73706
+0.07612
+2.67144
+0.03696
+rejected
+0.84351
+0.04808
+3.84684
+0.00849
+rejected
+0.53723
+0.11856
+1.56023
+0.16972
+accepted
+0.11024
+0.16464
+0.27168
+0.79497
+accepted
+0.71785
+0.08078
+2.52567
+0.04494
+rejected
+
+1.
+
+0.63966
+0.09847
+2.03838
+0.08764
+accepted
+0.22946
+0.15789
+0.57748
+0.58462
+accepted
+0.78272
+0.06456
+3.08057
+0.02165
+rejected
+-0.03364
+0.16648
+-0.08246
+0.93696
+accepted
+0.55156
+0.11596
+1.6197
+0.15642
+accepted
+0.42791
+0.13615
+1.1597
+0.29023
+accepted
+
+1.
+
+0.68984
+0.08735
+2.33406
+0.05832
+accepted
+0.82879
+0.05218
+3.62812
+0.01099
+rejected
+0.57046
+0.11243
+1.70132
+0.13978
+accepted
+-0.00678
+0.16666
+-0.0166
+0.98729
+accepted
+0.73304
+0.07711
+2.63981
+0.03855
+rejected
+
+1.
+
+0.44234
+0.13406
+1.20814
+0.27244
+accepted
+0.7893
+0.06283
+3.14884
+0.01984
+rejected
+-0.39051
+0.14125
+-1.03904
+0.33883
+accepted
+0.4379
+0.13471
+1.19309
+0.27787
+accepted
+
+1.
+
+0.06461
+0.16597
+0.15859
+0.8792
+accepted
+0.05962
+0.16607
+0.1463
+0.88848
+accepted
+0.76918
+0.06806
+2.94841
+0.02567
+rejected
+
+1.
+
+-0.25825
+0.15555
+-0.6548
+0.53688
+accepted
+0.28504
+0.15313
+0.72843
+0.49379
+accepted
+
+1.
+
+-0.06949
+0.16586
+-0.17062
+0.87013
+accepted
+
+1.
+
+RA - Registro de Atividade 
+AT - Apoio de Terceiros 
+PV - Pedido de Voto 
+PC - Plataforma de Campanha 
+FP - Feitos do Passado 
+Ev - Eventos 
+Pe – Pessoal 
+
+A ausência de relação também foi testada e comprovada com as 
+correlações entre número de compartilhamentos, curtidas e comentários – que 
+constituem o quesito "interações" – e a tipologia das postagens. Tal fenômeno, 
+claro, pode estar relacionado a muitos elementos. Algumas possibilidades são a 
+pequena amostra (oito candidatos) ou algum problema nas categorias ou na 
+análise qualitativa das postagens. Outro fator que pode 
+ter 
+interferido 
+negativamente é a presença de Jair Bolsonaro (outlier) na amostra, dada sua 
+enorme diferença em relação aos outros candidatos no que diz respeito ao 
+aproveitamento do Facebook como ferramenta de campanha, como se vê na 
+TABELA 2 e nos GRÁFICOS 1 e 2, a seguir. Para perceber o fenômeno, foi 
+utilizada como padrão de eficiência a média de compartilhamentos, curtidas e 
+comentários (i.e, 
+interações) por postagem dos candidatos. A eficiência 
+apresentada pelo candidato na mídia social no que diz respeito à capacidade de 
+
+ 
+ 
+ 
+ 
+ 
+interação das suas postagens, com uma média de quase 30 mil interações por 
+postagem, é bem mais alta, como se pode ver, que a dos outros candidatos.  
+
+62 
+
+TABELA 2 - Total de postagens e média de interações 
+
+Nome  Postagens 
+ Jair Bolsonaro  
+ Jean Willys 
+ Alessandro Molon 
+ Eduardo Cunha  
+ Leonardo Picciani 
+ Chico Alencar  
+ Rodrigo Maia  
+ Pedro Paulo  
+
+41 
+173 
+146 
+46 
+59 
+66 
+97 
+231 
+
+média interações 
+29608.878 
+1889.300 
+226.493 
+129.956 
+129.711 
+73.545 
+62.041 
+56.320 
+
+GRÁFICO 2 - Eficiência comparada 
+
+avgcomp - média de compartilhamentos 
+avg curtidas - média de curtidas 
+avgcoment - média de comentários 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GRÁFICO 3 - Interações x postagens 
+
+63 
+
+Quando, por exemplo, se retira Jair Bolsonaro da amostra, é possível 
+perceber uma relação significativa entre o número de compartilhamentos e os 
+tipos "registro de atividades" (RA) (R = 0.8714) e "plataforma de campanha" (PC) 
+(R = 0.8073), bem como entre o número de comentários e o tipo de postagem 
+"plataforma de campanha" (PC) (R = 0.7822), como se vê na TABELA 3 a seguir. 
+A dinâmica parece denotar um incentivo para postagens desse tipo, com maior 
+capacidade de visibilidade e alcance no ambiente eleitoral analisado. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+TABELA 3 
+
+64 
+
+Correlation Coefficients Matrix
+
+Missing values removal
+
+Pairwise deletion
+
+ interações 
+
+ postagens 
+
+ compartilhamentos 
+
+ curtidas 
+
+ comentários 
+
+ RA 
+
+ AT 
+
+ PV 
+
+ PC 
+
+ FP 
+
+ Ev 
+
+ Pe 
+
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+
+ interações 
+1.
+
+0.39679
+0.16851
+0.9666
+0.37814
+accepted
+0.87671
+0.04628
+4.07544
+0.00958
+rejected
+0.99989
+0.00004
+153.49765
+2.22637E-10
+rejected
+0.96145
+0.01512
+7.81779
+0.00055
+rejected
+0.68702
+0.1056
+2.11418
+0.08815
+accepted
+0.21685
+0.1906
+0.49671
+0.64046
+accepted
+-0.04436
+0.19961
+-0.09929
+0.92476
+accepted
+0.63966
+0.11817
+1.8608
+0.12185
+accepted
+-0.49052
+0.15188
+-1.25868
+0.26372
+accepted
+0.46284
+0.15716
+1.16753
+0.29564
+accepted
+0.5247
+0.14494
+1.37821
+0.22662
+accepted
+
+ postagens 
+
+ compartilhamentos 
+
+ curtidas 
+
+ comentários 
+
+ RA 
+
+ AT 
+
+ PV 
+
+ PC 
+
+ FP 
+
+ Ev 
+
+ Pe 
+
+1.
+
+0.57685
+0.13345
+1.57907
+0.17515
+accepted
+0.38807
+0.16988
+0.94154
+0.38966
+accepted
+0.60026
+0.12794
+1.67819
+0.15415
+accepted
+0.74902
+0.08779
+2.52792
+0.05266
+accepted
+0.95159
+0.01889
+6.92303
+0.00096
+re jected
+0.70711
+0.1
+2.2361
+0.07558
+accepted
+0.85915
+0.05237
+3.7542
+0.01324
+re jected
+0.46186
+0.15734
+1.16439
+0.2968
+accepted
+0.05898
+0.1993
+0.13212
+0.90005
+accepted
+0.67633
+0.10851
+2.05313
+0.09526
+accepted
+
+1.
+
+0.86974
+0.04871
+3.94082
+0.01095
+re jected
+0.89605
+0.03942
+4.51328
+0.00632
+re jected
+0.8714
+0.04813
+3.97185
+0.01062
+re jected
+0.4719
+0.15546
+1.19684
+0.28502
+accepted
+-0.00263
+0.2
+-0.00588
+0.99554
+accepted
+0.80735
+0.06964
+3.05945
+0.02812
+re jected
+-0.43001
+0.16302
+-1.06502
+0.33557
+accepted
+0.5113
+0.14771
+1.33036
+0.24085
+accepted
+0.45552
+0.1585
+1.14416
+0.30436
+accepted
+
+1.
+
+0.95905
+0.01605
+7.5712
+0.00064
+rejected
+0.67882
+0.10784
+2.06712
+0.09358
+accepted
+0.2066
+0.19146
+0.47215
+0.6567
+accepted
+-0.0481
+0.19954
+-0.10768
+0.91843
+accepted
+0.63102
+0.12036
+1.81884
+0.1286
+accepted
+-0.49256
+0.15148
+-1.26558
+0.26143
+accepted
+0.46105
+0.15749
+1.1618
+0.29776
+accepted
+0.52326
+0.14524
+1.37302
+0.22812
+accepted
+
+1.
+
+0.73464
+0.09206
+2.42121
+0.06003
+accepted
+0.43768
+0.16169
+1.08848
+0.32604
+accepted
+0.20161
+0.19187
+0.46027
+0.66465
+accepted
+0.7823
+0.0776
+2.80824
+0.03763
+rejected
+-0.28682
+0.18355
+-0.66947
+0.53286
+accepted
+0.34609
+0.17604
+0.82485
+0.44701
+accepted
+0.63723
+0.11879
+1.8489
+0.12372
+accepted
+
+1.
+
+0.62011
+0.12309
+1.76748
+0.13739
+accepted
+0.17958
+0.19355
+0.40818
+0.70004
+accepted
+0.77626
+0.07948
+2.75341
+0.04015
+rejected
+-0.12
+0.19712
+-0.27028
+0.79775
+accepted
+0.53865
+0.14197
+1.42957
+0.21223
+accepted
+0.38805
+0.16988
+0.94148
+0.38968
+accepted
+
+1.
+
+0.65321
+0.11466
+1.92905
+0.11163
+accepted
+0.84493
+0.05722
+3.5323
+0.0167
+rejected
+0.49882
+0.15024
+1.28693
+0.25448
+accepted
+-0.0711
+0.19899
+-0.15939
+0.8796
+accepted
+0.69322
+0.10389
+2.15074
+0.08417
+accepted
+
+1.
+
+0.41913
+0.16487
+1.03224
+0.34928
+accepted
+0.76637
+0.08253
+2.66761
+0.04448
+rejected
+-0.45829
+0.15799
+-1.15298
+0.30104
+accepted
+0.37619
+0.1717
+0.90787
+0.40557
+accepted
+
+1.
+
+0.00758
+0.19999
+0.01695
+0.98713
+accepted
+0.03731
+0.19972
+0.08349
+0.9367
+accepted
+0.76992
+0.08144
+2.69784
+0.04289
+rejected
+
+1.
+
+-0.33702
+0.17728
+-0.80043
+0.45979
+accepted
+0.18546
+0.19312
+0.42203
+0.69053
+accepted
+
+1.
+
+-0.12746
+0.19675
+-0.28736
+0.78537
+accepted
+
+1.
+
+Saindo do plano mais geral, no entanto, é importante ressaltar também a 
+necessidade de se analisar caso a caso, onde o julgamento da comunicação 
+desenvolvida pode ser relacionado ao perfil do candidato. O GRÁFICO 4, a 
+seguir, mostra como cada um deles se comportou (em %)em relação ao tipo de 
+postagem.Percebe-se uma ênfase em "registro de atividades" por parte de Jair 
+Bolsonaro, Alessandro Molon e Jean Wyllys. Chico Alencar e Pedro Paulo 
+enfatizaram mais "apoio de terceiros", enquanto Leonardo Picciani e Eduardo 
+Cunha privilegiaram "feitos do passado" e "divulgação de eventos", no primeiro 
+caso, e "pedido de voto, no segundo.  
+
+ 
+ 
+ 
+ 
+ 
+GRÁFICO 4 
+
+65 
+
+RA - Registro de Atividade 
+AT - Apoio de Terceiros 
+PV - Pedido de Voto 
+PC - Plataforma de Campanha 
+FP - Feitos do Passado 
+EV - Eventos 
+PE – Pessoal 
+
+Uma questão, no entanto, é o que cada candidato privilegiou em termos de 
+comunicação, outra é que tipo de postagem apresentou maior potencial de 
+interação. Nem sempre uma coisa está ligada à outra. Jair Bolsonaro, mesmo 
+tendo sido bastante superior aos outros candidatos no Facebook, ao menos, 
+privilegiou "registro de atividades", mas apresentou grande potencial de 
+visibilidade e alcance das postagens do tipo "plataforma de campanha", que 
+também foram as mais compartilhadas e curtidas entre as postagens de Alessandro 
+Molon. Entre as postagens de Jean Wyllys, aquelas mais eficientes do ponto de 
+vista de viralização foram as que fizeram "registros de atividades", que nesse caso 
+foram as que o candidato mais privilegiou na mídia social analisada. A TABELA 
+4 a seguir mostra os temas com melhores médias de compartilhamento, curtidas e 
+comentários para cada um dos candidatos.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+66 
+
+TABELA 4 - Temas com mais compartilhamentos, curtidas e comentários 
+Melhor média de 
+Melhor média de 
+compartilhamento 
+curtidas 
+PC 
+PC 
+PC 
+PC 
+AT 
+AT 
+FP 
+AT 
+Ev 
+Ev 
+PV 
+PC 
+RA 
+RA 
+AT 
+Pe 
+
+Nome  
+ Jair Bolsonaro  
+ Alessandro Molon 
+ Chico Alencar  
+ Rodrigo Maia  
+ Leonardo Picciani 
+ Eduardo Cunha  
+ Jean Willys 
+ Pedro Paulo  
+
+Melhor média de  
+comentários 
+PV 
+Ev 
+PV 
+AT 
+PC 
+PV 
+RA 
+AT 
+
+RA - Registro de Atividade 
+AT - Apoio de Terceiros 
+PV - Pedido de Voto 
+PC - Plataforma de Campanha 
+FP - Feitos do Passado 
+Ev - Eventos 
+Pe - Pessoal 
+
+Para além do contexto da tipologia das postagens, algumas outras 
+conclusões, que podem servir de hipóteses para estudos futuros, podem ser 
+extraídas dos números. A primeira que parece advir dos dados é a de que não 
+importa o número de postagens, não é postando mais que um candidato pode 
+aumentar seu número de curtidores ou de compartilhamentos. A partir da amostra 
+analisada (TABELA 3), não há relação estatisticamente significativa entre o 
+número de postagens e o de interações de um candidato (R = 0.3967). 
+Isto é, no espaço de um mês de campanha o que se vê é um ambiente de 
+poucas postagens muito eficientes em termos de interação, especialmente no caso 
+de Bolsonaro e  Jean Wyllys. O fato também pode ser confirmado na TABELA 5, 
+a seguir, onde foi inserida a variável número de curtidores (R = -0.28528, na 
+relação com o número de postagens). Com isso, é possível inferir mais um 
+resultado, o de que o número de postagens não apresenta relação também com o 
+número de seguidores, mas que este aparece, claro, bastante relacionado ao número 
+de compartilhamentos, curtidas e comentários (R = 0.93957; R = 0.92567; R = 
+
+ 
+ 
+ 
+ 
+67 
+
+0.94391). Obviamente, quanto mais seguidores tem um candidato, maior a chance 
+de haver mais interações (TABELA 6) (R = 0.99038). 
+
+TABELA 5 
+
+Correlation Coefficients Matrix
+
+Missing values removal
+
+ postagens 
+
+ curtidores 
+
+ compartilhamentos 
+
+ curtidas 
+
+ comentários 
+
+Pairwise deletion
+
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+
+ postagens 
+1.
+
+ curtidores 
+
+ compartilhamentos 
+
+ curtidas 
+
+ comentários 
+
+-0.28528
+0.1531
+-0.7291
+0.49341
+accepted
+-0.37736
+0.14293
+-0.99813
+0.35675
+accepted
+-0.21565
+0.15892
+-0.54096
+0.60802
+accepted
+-0.34708
+0.14659
+-0.90653
+0.3996
+accepted
+
+1.
+
+0.93957
+0.01953
+6.72238
+0.00053
+rejected
+0.99257
+0.00247
+19.9849
+1.0188E-6
+rejected
+0.95444
+0.01484
+7.83488
+0.00023
+rejected
+
+1.
+
+0.92567
+0.02385
+5.99338
+0.00097
+rejected
+0.99848
+0.00051
+44.38196
+8.76188E-9
+rejected
+
+1.
+
+0.94392
+0.01817
+7.00266
+0.00042
+rejected
+
+1.
+
+TABELA 6 
+Correlation Coefficients Matrix
+
+Missing values removal
+
+Pairwise deletion
+
+ curtidores 
+
+ interações 
+
+R
+
+R
+
+R Standard Error
+t
+p-value
+H0 (5%)
+
+R Standard Error
+t
+p-value
+H0 (5%)
+
+ curtidores 
+1.
+
+ interações 
+
+1.
+
+0.99038
+
+0.00319
+17.53103
+2.2101E-6
+rejected
+
+R
+
+Variable vs. Variable
+ interações  vs.  curtidores 
+
+R
+
+0.99038
+
+No# of valid cases
+
+8
+
+É interessante ainda perceber o que acontece ao se inserir a variável 
+número de votos obtidos por cada candidato, que curiosamente aparece bastante 
+relacionada ao número de curtidores e de interações (TABELA 7) (R = 0.85074; 
+R = 0.84616), mesmo quando as interações são analisadas individualmente 
+(TABELA 8) (R = 0.885, vs. compartilhamentos; R = 0.80064, vs. curtidas; R = 
+0.87892, vs. comentários). Vale ressaltar, as correlações aqui são desenvolvidas 
+menos no intuito de perceber causa e consequência entre as variáveis analisadas 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+nesta pesquisa (correlation is no causation) e mais na intenção de sugerir que no 
+ambiente eleitoral contemporâneo um candidato bem sucedido em termos de 
+votos talvez tenda a ser também, mais e mais, eficiente na Web. 
+
+68 
+
+TABELA 7 
+
+Correlation Coefficients Matrix
+
+Missing values removal
+
+Pairwise deletion
+
+ votos 
+
+ curtidores 
+
+ interações 
+
+TABELA 8 
+
+Correlation Coefficients Matrix
+
+Missing values removal
+
+ votos 
+
+ curtidores 
+
+ compartilhamentos 
+
+ curtidas 
+
+ comentários 
+
+R
+
+R
+
+R
+
+R Standard Error
+t
+p-value
+H0 (5%)
+
+R Standard Error
+t
+p-value
+H0 (5%)
+
+R Standard Error
+t
+p-value
+H0 (5%)
+
+ votos 
+1.
+
+0.85074
+0.04604
+3.96482
+0.00741
+rejected
+
+0.84616
+0.04734
+3.88921
+0.00808
+rejected
+
+ curtidores 
+
+ interações 
+
+1.
+
+0.99038
+0.00319
+17.53103
+2.2101E-6
+rejected
+
+1.
+
+Pairwise deletion
+
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+R
+R Standard Error
+t
+p-value
+H0 (5%)
+
+ votos 
+1.
+
+0.85074
+0.04604
+3.96482
+0.00741
+rejected
+0.885
+0.03613
+4.65601
+0.00348
+rejected
+0.80064
+0.05983
+3.27328
+0.01696
+rejected
+0.87892
+0.03792
+4.51382
+0.00404
+rejected
+
+ curtidores 
+
+ compartilhamentos 
+
+ curtidas 
+
+ comentários 
+
+1.
+
+0.93957
+0.01953
+6.72238
+0.00053
+rejected
+0.99257
+0.00247
+19.9849
+1.0188E-6
+rejected
+0.95444
+0.01484
+7.83488
+0.00023
+rejected
+
+1.
+
+0.92567
+0.02385
+5.99338
+0.00097
+rejected
+0.99848
+0.00051
+44.38196
+8.76188E-9
+rejected
+
+1.
+
+0.94392
+0.01817
+7.00266
+0.00042
+rejected
+
+1.
+
+A relação entre votos e interações pode ser percebida também no 
+GRÁFICO 4, a seguir, por candidato. Jair Bolsonaro aparece como candidato 
+bem sucedido em termos de voto – foi o deputado federal mais votado do país 
+naquelas eleições – e de internet. Já Jean Wyllys aparece mais como um 
+candidato eficiente na Web, mas não tão bem sucedido em termos de votos. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GRÁFICO 5 - n de Interações x n de votos 
+
+69 
+
+Assim, resumidamente, os resultados apontam para cinco conclusões que, 
+dado o caráter de teste metodológico desta pesquisa, podem servir de hipóteses 
+para estudos futuros. Em primeiro lugar, é importante destacar a ideia de que este 
+trabalho não encontrou qualquer relação entre o número de postagens ou o 
+número de interações. Ou seja, um candidato interessado em ter mais interações, 
+ao menos no Facebook, deve se preocupar teoricamente mais com a qualidade das 
+postagens do que com a sua quantidade. 
+Em segundo lugar, com a presença de Jair Bolsonaro (outlier) na amostra, 
+os dados não apresentaram também qual relação estatisticamente significativa 
+entre o tipo de postagem, nas categorias utilizadas na análise, e o número de 
+interações. No entanto, ao se retirar Bolsonaro da amostra, foi possível perceber 
+relações significativas entre os tipos "plataforma de campanha" e "registro de 
+atividades" com o número de compartilhamentos e novamente "plataforma de 
+campanha" com o número de comentários. A partir desse resultado, esta pesquisa 
+suscita a hipótese de que o tipo "plataforma de campanha" apresenta grande 
+potencial de viralização no Facebook, algo que pode inclusive trazer o benefício 
+democrático de tornar mais claro para o cidadão quais as propostas de cada 
+candidato. 
+Outra conclusão mais óbvia que pôde ser ressalta dos dados diz respeito à 
+importância do número de curtidores/seguidores para o número de interações 
+estabelecidas pelo candidato com suas postagens. Como os dados mostraram, tudo 
+
+ 
+ 
+ 
+70 
+
+indica que quanto maior o número de curtidores, maior o potencial de 
+compartilhamentos, curtidas e comentários em cada post. 
+Por fim, foi incluída a variável "número de votos" para cada candidato, 
+como já foi dito, menos no intuito de perceber uma relação de causa e 
+consequência entre o desempenho na mídia social e nas urnas e mais na intenção 
+de perceber que no ambiente eleitoral contemporâneo um candidato bem sucedido 
+em termos de votos talvez tenda a ser também eficiente na Web, especialmente 
+nas mídias sociais. No que diz respeito ao menos das oito performances 
+analisadas, o número de votos mostrou alta relação estatística não somente com o 
+número de curtidores, mas também com o número de interações de cada candidato 
+na Facebook em ambiente eleito. 
+
+ 
+ 
+ 
+5 
+Considerações finais 
+
+A maciça presença de políticos em perfis nas mídias digitais, fenômeno 
+recente e facilmente identificável, principalmente durante períodos eleitorais, e a 
+instantânea popularidade que alguns alcançam no ambiente online 
+têm 
+incentivado pesquisas a observar os impactos dessa nova geração de ferramentas 
+da internet – em particular as mídias sociais – no cenário político, com seus canais 
+de comunicação direta entre cidadãos e eleitores 
+(GOLBECK, 2010; 
+GUEORGUIEVA, 2008; VACCARI, 2013). Foi justamente esse fenômeno que 
+motivou esta pesquisa, inserida no campo da internet e democracia, a propor como 
+análise os impactos da comunicação política nas redes sociais durante campanhas 
+eleitorais em regime democrático. Mais precisamente, este trabalho lançou olhar 
+tanto conceitual quanto empírico sobre a forma como oito políticos brasileiros em 
+campanha utilizaram uma mídia social específica – o Facebook – como veículo de 
+comunicação com seus “curtidores”, o impacto viral de suas publicações a partir 
+do alcance e visibilidade de suas publicações e o uso propriamente dito da 
+comunicação política digital como instrumento de campanha nas eleições de 2014. 
+Para tanto, foi construída toda uma análise sobre o conteúdo digital 
+publicado nas fanpages, perfis profissionais no Facebook, de oito candidatos à 
+reeleição ao cargo de deputado federal pelo Rio de Janeiro nas eleições de 2014, 
+durante os trinta e três últimos dias permitidos por lei de propaganda eleitoral na 
+web. O objetivo aqui proposto foi testar hipóteses capazes de contribuir com o 
+fomento de novos estudos sobre o uso estratégico das redes sociais como veículo 
+de comunicação direta entre candidato e eleitor nos futuros pleitos eleitorais no 
+Brasil, buscando indícios que levem a uma melhor compreensão do “por que” e 
+“para que” os candidatos estão atualmente, utilizando esses novos veículos de 
+comunicação como parte representativa de suas campanhas eleitorais. Para tal, foi 
+objeto específico desta pesquisa a coleta e leitura dos dados quantitativos e 
+qualitativos gerados pelas 840 postagens produzidas pelos candidatos/assessoria 
+de comunicação no Facebook e compreendidas no lapso temporal proposto acima, 
+assim seus potenciais de estimular a interação.  
+Uma vez coletado os dados, a proposta passou a ser o desenvolvimento de 
+uma percepção aguçada sobre a real capacidade de alcance e visibilidade do 
+
+ 
+72 
+
+discurso político na web e como elas repercutem juntos aos eleitores presentes nas 
+redes sociais, neste caso no Facebook. Para tal, foram contabilizadas as 
+incidências das três ações possíveis de interação permitidas pela plataforma 
+escolhida – curtir, compartilhar e comentar – em cada uma das 840 mensagens 
+observadas. Em seguida, estas postagens foram classificadas e divididas por seus 
+respectivos temas (NIELSEN; VACCARI, 2014; BRAGA 2014), para então 
+serem ranqueadas quantitativamente a partir da sua capacidade viral, para depois 
+ressaltar as publicações com maior alcance e visibilidade levando em conta as 
+características comunicacionais que foram preponderantes para que umas se 
+destacassem mais perante as outras. Com esses dados em mãos, coube à pesquisa 
+cruzar os dados coletados, deixando assim expostos alguns dos indícios de 
+estratégia comunicacional, em comum e em dissonância, adotados por cada uma 
+das campanhas. Foram também observados seus respectivos impactos em termos 
+de comunicação política e interatividade digital durante o período de eleições. 
+Nesse contexto, é importante salientar a existência de uma variante comum nos 
+estudos relacionados a campanhas eleitorais, que é o maior afloramento da 
+mobilização popular sobre assuntos políticos nas redes sociais, se comparado ao 
+nível de engajamento popular observados em períodos não eleitorais. É possível 
+presumir não apenas uma maior participação com também uma maior intensidade 
+a partir do maior fluxo de ações de interação no Facebook, observados em posts 
+feitos durante períodos eleitorais. 
+A metodologia aplicada propôs conduzir a pesquisa para a área de análise 
+das potencialidades da web no aprimoramento da participação cidadã no contexto 
+eleitoral (GOMES; MAIA, 2008; GOMES, 2010; MAIA; GOMES; MARQUES, 
+2011). Nesse contexto, a etapa de leitura dos dados coletados seguiu os seguintes 
+passos: 
+1) contabilizar total e média das ações de interação geradas por cada uma 
+das postagens analisadas. 
+2) classificar as publicações dos candidatos por temas relacionados aos 
+assuntos abordados.  
+3) identificar índice de potencial de alcance e visibilidade de conteúdo 
+gerado por cada tema por meio da contagem de curtidas, compartilhamentos e 
+comentários. 
+
+ 
+73 
+
+4) identificar a correlação estatística entre os temas categorizados e suas 
+respectivas ações de interação no Facebook através do cruzamento de todos os 
+dados coletados.  
+Nesse contexto, o cerne da questão não se resumiu ao fato de se os 
+candidatos estão ou não inseridos no universo digital e fazem uso dessas 
+tecnologias como novas ferramentas de campanha, mas as razões e motivos que 
+eles as utilizam e quais os impactos dessa nova forma de se comunicar na atual 
+conjuntura eleitoral. A busca por uma resposta nos levou a refletir sobre alguns 
+pontos em específico: a) a comunicação política e suas intenções por trás da 
+estratégia adotada pelos candidatos em campanha; b) que 
+recursos 
+comunicacionais são majoritariamente utilizados; e c) o interesse ou aversão do 
+cidadão à interação com políticos nas redes sociais e vice-versa. Dito isso, passou 
+a ser intenção principal dessa pesquisa observar e responder a quatro questões 
+fundamentais:  
+1) Que candidato desempenha a comunicação política com maior 
+capacidade de inteiração com os usuários do Facebook? 
+2) Que tema de postagem cada um dos candidatos privilegiou? 
+3) Que tema apresentou maior potencial de viralização a partir do acumulo 
+de ações de interação com os usuários do Facebook? 
+4) É possível traças algum tipo de paralelo entre a performance dos 
+candidatos nas mídias sociais e o desempenho dos candidatos nas urnas?  
+Passada a fase da análise estatística, os resultados apontaram para algumas 
+conclusões que, dado o caráter de teste metodológico desta pesquisa, podem servir 
+de hipóteses para estudos futuros. Entre as conclusões, é primordialmente 
+importante destacar o fato de que esse trabalho não encontrou qualquer relação 
+direta entre a incidência de postagens com o acúmulo de ações de interação. Ou 
+seja, um candidato 
+interessado em 
+ter mais curtidas, comentários ou 
+compartilhamentos, ao menos no Facebook, deve se preocupar teoricamente mais 
+com a qualidade das postagens do que com a sua assiduidade na timeline dos seus 
+curtidores. Sobre isso, Vaccari (2011) lembrou que: 
+
+ embora praticamente todos os candidatos atualmente envolvidos em disputas 
+eleitorais tenham usado uma grande variedade de ferramentas de Internet para se 
+comunicar com o eleitorado, a maioria destes obteve sucesso limitado em levar as 
+pessoas a optar ativamente em visitar seus websites, apoiá-los no Facebook, 
+seguir suas contas no Twitter ou ver vídeos em seus canais do YouTube. É 
+
+ 
+ 
+74 
+
+preciso saber o que e como fazer viralizar o conteúdo publicado em qualquer uma 
+das redes, sob a forma de qualquer uma das mídias possíveis e compartilháveis 
+(VACCARI, 2010). 
+
+Foi possível observar também que com a presença de Jair Bolsonaro na 
+amostra, os dados não apresentaram qualquer 
+relação estatisticamente 
+significativa entre o tipo de postagem, nas categorias utilizadas na análise, e o 
+número de interações obtidas. No entanto, ao omitir os números de Bolsonaro da 
+amostra, foi possível perceber relações significativas entre, por exemplo, os temas 
+"plataforma de campanha" e "registro de atividades" com o número de 
+compartilhamentos e novamente "plataforma de campanha" com o número de 
+comentários. A partir desses dois resultados em especial, foi possível suscitar duas 
+conjecturas verossímeis: a) Jair Bolsonaro pode ser considerado um outlier entre 
+os outros sete candidatos uma vez que a mera presença dos seus números na 
+análise fez com que as relações estatísticas posteriormente identificadas fossem 
+totalmente omitidas; e b) o tema "plataforma de campanha" apresentou grande 
+potencial de viralização no Facebook, algo que pode inclusive trazer o benefício 
+democrático de tornar mais claro para o cidadão quais as propostas de cada 
+candidato.  
+Outra conclusão, essa mais óbvia, que pôde ser levantada a partir dos 
+dados, diz respeito à importância do número de curtidores para o maior acúmulo 
+de dados de interação. Conforme indicado pelos números, tudo indica que quanto 
+maior o número de curtidores, maior o potencial de compartilhamentos, curtidas e 
+comentários em cada uma das postagens, não importando o tema da publicação. 
+Por fim, foi incluída a variável "número de votos" para cada candidato, como já 
+foi dito, menos no intuito de perceber uma relação de causa e consequência entre 
+o desempenho na mídia social e nas urnas (correlation is not causation) e mais na 
+intenção de perceber que no ambiente eleitoral contemporâneo um candidato bem 
+sucedido em termos de votos talvez tenda a ser também, mais e mais, eficiente na 
+Web, especialmente nas mídias sociais. No que diz respeito ao menos das oito 
+performances analisadas, o número de votos mostrou alta relação estatística não 
+somente com o número de curtidores, mas também com o número de interações 
+de cada candidato no ambiente eleitoral. 
+
+ 
+ 
+6 
+Referências bibliográficas 
+
+AGGIO, C. Internet, eleições e participação: Questões-chave acerca da 
+participação e do ativismo nos estudos em Campanha Online. IN: MAIA, R.; 
+GOMES, W.; MARQUES, F.P.J.A.(Orgs.). Internet e Participação Política no 
+Brasil. Porto Alegre: Sulina, 2011. 
+
+AGGIO, C. Campanhas Políticas e Sites para Redes Sociais: Um estudo sobre o 
+uso do Twitter na eleição presidencial brasileira de 2010, Doutorado em 
+Comunicação e Cultura Contemporânea (Conceito CAPES 5). Universidade 
+Federal da Bahia, UFBA, Brasil. 
+
+___________ O percurso de formação das questões, problemas e configurações 
+a partir da literatura produzida entre 1992 e 2009. São Paulo: Paulus, 2010. 
+
+AGGIO, C.; MARQUES, F. P. J. A.; SAMPAIO, R. (Orgs.). Do Clique à Urna: 
+Internet, Redes Sociais e Eleições no Brasil.Salvador: EDUFBA, 2012. 
+
+AGGIO, C.; REIS, L. Campanha eleitoral no Facebook: usos, configurações e o 
+papel atribuído a esse site por três candidatos eleitos nas eleições municipais de 
+2012. Revista Compolitica, v. 3, 2013. 
+
+BARBERÁ, P. How social media reduces mass political polarization. Evidence 
+from Germany, Spain and the U.S. Working paper from New York University, 
+2014. 
+
+BIMBER, B. A. Information and American democracy: Technology in the 
+evolution of political power. Cambridge, UK: Cambridge University Press, 
+2003. 
+
+BIMBER, B. A., & DAVIS, R. Campaigning online: The Internet in U.S. 
+elections. New York, NY: Oxford University Press, 2003. 
+
+BORGER, 
+J. 
+Participação 
+Política, 
+Internet 
+e 
+Competência 
+Infocomunicacionais: estudo com organizações da sociedade civil de Salvador - 
+Universidade Federal da Bahia, 2011. 
+
+BRAGA, S; CARLOMAGNO, M; RODRIGUES, M. As novas tecnologias 
+estão aumentando a qualidade do trabalho dos representantes? Um estudo do uso 
+da internet pelos deputados estaduais da 17 legislatura e seus gabinetes. In: 37 
+Encontro Anual da ANPOCS, 2014, Caxambu. Anais do 37 Encontro Anual da 
+ANPOCS, 2014. 
+
+BRAGA, S. Eleições como de costume? Uma análise longitudinal das mudanças 
+provocadas nas campanhas eleitorais brasileiras pelos impactos das tecnologias 
+digitais In: Seminário Mídia, Política e Eleições. São Paulo. de 3 a 4 de 
+novembro de 2014. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+76 
+
+BRAGA, M., PIMENTEL J.; Estrutura e organização partidária municipal nas 
+eleições de 2012. Cadernos Adenauer XIV, Nº2, 2013. 
+
+BRYAN, C.: Cyberdemocracy: technology, cities and civic networks. Eletronic 
+democracy and the civic networking movement in context. London: Routledge, 
+2005. 
+
+CHADWICK, A. Digital network repertoires and organizational hybridity. 
+Political 
+Communication, 
+24(3), 
+283–301, 
+2007. 
+doi:10.1080/10584600701471666 
+
+______________ . Web 2.0: New challenges for the study of e-democracy in an 
+era of informational exuberance. I/S: Journal of Law and Policy for the 
+Information 
+Society, 
+5(1), 
+9–41, 
+2009. 
+Retrieved 
+from 
+http://heinonline.org/HOL/Page?handle=hein.journals/isjlpsoc5&div=6&g_sent
+=1&collection=journals 
+
+COLEMAN, S. (org.) 2001 Cyberspace Odyssey: the Internet in the UK 
+Election. London: The Hansard Society, 2001. 
+
+COLEMAN, S.; BLUMLER, J.G. The Internet and Democratic Citizenship: 
+Theory, Practice and Policy. Cambridge: Cambridge University Press, 2009.  
+
+COLEMAN, Stephen. New Mediation 
+and Direct Representation: 
+Reconceptualising Representation in the Digital Age. New Media and Society 
+7(2), pp. 177–198, 2005. 
+
+COLEMAN, S. and MOSS, G. . Governing at a Distance – Politicians in the 
+Blogosphere. Information Polity, 13, 2008. 
+
+DAHL, Robert. Poliarquia. São Paulo: EDUSP, 1997. 
+
+DAHLBERG, L. Rethinking the fragmentation of the cyberpublic: from 
+concensus to contestation. New Media & Society, v.9, 2007. 
+
+DAWKINS, R. O gene egoísta [1976]. São Paulo: Companhia das Letras, 2007. 
+
+DOWNS, A. An economic theory of democracy. New York: HarperCollins. 
+1957. 
+
+ENTMAN, R. M.; HERBST, S. Reframing Public Opinion as We Have Known It. 
+In: BENNET, L.M.; ENTMAN, R. (eds.). Mediated Politics: Communication in 
+the Future of Democracy. Cambridge: Cambridge University Press, 2001. 
+
+FERNANDEZ, R. G. Campanhas Eleitorais Brasileiras na Internet. Campinas. 
+Dissertação (Mestrado). Departamento de Ciência Política, Instituto de Filosofia 
+e Ciências Humanas da Universidade Estadual de Campinas, 2005. 
+
+FILGUEIRAS, F. Além da transparência: accountability e política da publicidade. 
+Lua Nova (Impresso), v. 84, p. 65-94, 2011. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+77 
+
+FUCHS, C. Social media and the public sphere. tripleC: Communication, 
+Capitalism & Critique. Open Access Journal for a Global Sustainable Information 
+Society, v. 12, n.1, p. 57–101, 2014. 
+
+GOLBECK, J., GRIMES, J. M., & ROGERS, A. Twitter use by the U.S. 
+Congress. Journal of the American Society for Information Science and 
+Technology, 61(8), 1612–1621, 2010.doi:10.1002/asi.21344. 
+
+GOMES,    W. Transformações    da    política    na    era    da    comunicação 
+de massa. São Paulo, Paulus, 2004. 
+
+____________  Internet e participação política. In: Comunicação e democracia: 
+problemas e perspectivas. São Paulo: Paulus, 2008. 
+
+____________ Democracia Digital: que democracia? In: MIGUEL, L.F.; 
+BIROLI, F. (Orgs.). Mídia, representação e democracia. São Paulo: Hucitec, 
+2010, p. 241-259. 
+
+GOMES,   W.;   MAIA,   R.C.M.   Comunicação   e   democracia:   problemas   e 
+perspectivas. São Paulo: Paulus, 2008. 
+
+GOMES, W.; MARQUES, P. J. A. Internet e participação política no 
+Brasil. Porto Alegre: Sulina, 2011. 
+
+GOMES, W. ; AGGIO, C. Campanhas Online: O percurso de formação das 
+questões, problemas e configurações a partir da literatura produzida entre 1992 e 
+2009. In: I Seminário Nacional Sociologia e Política UFPR 2009, 2009, 
+Curitiba. I Seminário Nacional Sociologia & Política - UFPR, 2009. v. I. 
+
+GOMES, W.: A democracia digital e o problema da participação civil na decisão 
+política. Revista Fronteiras, São Leopoldo, v.III, 2005. 
+
+GUEORGUIEVA, V. Voters, MySpace, and YouTube: The 
+alternative 
+Communication channels on the 2006 election cycle and beyond. Social Science 
+Computer Review, 26(3), 2008, p. 288-300. 
+
+impact of 
+
+GULATI, G. J; WILLIAMS, C. B. Closing the Gap, Raising the Bar: Candidate 
+Web Site Communication in the 2006 Campaign for Congress. Social Science 
+Computer Review, V.25, 2007. 
+
+HELD, D. Models of Democracy. Cambridge: Polity Press, 2003. 
+
+ITUASSU, A; CAPONE, L: Twitter e esfera pública - Pluralidade e 
+representação na discussão sobre o Marco Civil da Internet. - Programa de de 
+pós graduação em Comunicação Social da Puc, Rio de janeiro, 2015. 
+
+ITUASSU, A.;  LIFSCHITZ,  S.  Opinião  Pública  e  Comunicação  política  em 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+78 
+
+#ELEIÇÕES2014: uma análise preliminar. XXIV Encontro Anual da Compós, 
+Universidade Federal de Brasília, Brasília, de 09 a 12 de junho de 2015. 
+
+ITUASSU, A.; AZEVEDO, D. Repolitizando a representação: uma teoria para 
+iniciativas digitais em prol dos processos políticos representativos no Brasil. In: 
+Revista Compolítica, n. 3, vol. 2, ed. jul-dez, ano 2013. 
+
+JENNINGS, M.; ZEITNER, V.: Internet use and civic engagement: a 
+longitudinal analysis. Public Opinion Quarterly, v. 67, 2003. 
+
+KARLSSON, M. “Representation as Interactive Communication”. Information, 
+Communication & Society, DOI:10.1080/1369118X.2012.757633, 2013. 
+
+KLOTZ, R. J. Internet Campaigning for Grassroots and Astroturf Support. 
+Social Science Computer Review, V.25, 2007. 
+
+KLUVER, R. "Political Culture and Information Technology in the 2001 
+Singapore General Election." Political Communication, 21, p. 435-458, 2004. 
+
+KUSHIN, M; KISHNER, C.: Searching for Media Complementarity: Use of 
+Social Network Sites and Other Online Media for Campaign Information 
+Among Young Adults. Artigo apresentado em 2009 na convenção anual da 
+Western States Communication Association, 2009. 
+
+MAIA, R. Democracia e a internet como esfera pública virtual: aproximação às 
+condições de deliberação. In: Comunicação e democracia: problemas e 
+perspectivas. São Paulo: Paulus, 2008. 
+
+MAIA, R.C.M; GOMES, W.; MARQUES, F.P.J.A. (orgs.). Internet e 
+Participação Política no Brasil. Porto Alegre, Sulina, 2011. 
+
+MANIN, B. The principles of representative government. Cambridge: 
+Cambridge University Press, 2004. 
+
+MARGETTS, H. The cyber party. In: Katz, R. e Crotty, W (eds). Handbook of 
+party politics. London: Sage. 2006. 
+
+MARQUES, F.P.J.A. Democracia online e o problema da exclusão digital. In: 
+Intexto, Porto Alegre, UFRGS, n. 30, p. 93-113, jul., 2014. 
+
+MARQUES, F.P.J.A.; AQUINO, J.A.; MIOLA, E. Parlamentares, representação 
+política e redes sociais digitais: perfis de uso do Twitter na Câmara dos 
+Deputados. Opinião Publica, 2014, vol.20, n.2. 
+
+MARQUES,  F.P.J.A.;  SAMPAIO,  R.C.  Internet  e  eleições  2010  no  Brasil: 
+rupturas e continuidades nos padrões mediáticos das campanhas políticas online. 
+In MARQUES, F.P.J.A.; SAMPAIO, R.C.; AGGIO, C. (Orgs.). Do clique à 
+urna: Internet, redes sociais e eleições no Brasil. Salvador: EDUFBA, 2013. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+79 
+
+MARQUES, F.P.J.A.; SAMPAIO, R.C.; AGGIO, C. (orgs.). Do clique à urna: 
+Internet, redes sociais e eleições no Brasil. Salvador: EDUFBA, 2013. 
+
+MEIJER, A. Young People, the Internet and Political Participation.Information, 
+Communication & Society, 2009. 
+
+MENDONÇA, R.: Reconhecimento e deliberação: as lutas das pessoas atingidas 
+pela hanseníase em diferentes âmbitos internacionais - Programa de pós 
+graduação em Comunicação Social da UFMG, Belo Horizonte. 2012 
+
+MIGUEL, L.F. Impasses da Accountability: dilemas e alternativas da 
+representação política. Revista de Sociologia e Política. Curitiba, nº 25, p. 25-
+38, 2005. 
+
+MIGUEL, L. F.; BIROLI, F. (orgs.). Mídia, Representação e Democracia. São 
+Paulo, Hucitec, 2010. 
+
+MILLER, P. R; RAPOPORT, R. B.; BOBKOWSKI, P. S.; MALINIAK, D. 
+2015. Talking Politics on Facebook: Network Centrality and Political 
+Discussion Practices in Social Media. Political Research Quarterly, V.68, 2015. 
+
+MYERS, D. D. New technology and the 1992 Clinton presidential campaign. 
+American Behavioural Scientist, V.37, 1993. 
+
+NEVES, B.B. Cidadania Digital? Das cidades digitais a Barack Obama. Uma 
+abordagem crítica. In: Cidadania Digital. LabCom Books, 2010. Disponível em: 
+
+http://www.livroslabcom.ubi.pt/pdfs/20101103-morgado_rosas_cidadania_2010.pdf 
+
+NIELSEN, Rasmus Kleis & VACCARI, Cristian. Do People “Like” Politicians 
+on Facebook?Not Really. Large-Scale Direct Candidate-to-Voter Online 
+Communication as an Outlier Phenomenon. 
+International Journal of 
+Communication 7 (2013), 2333–2356. 
+
+NORRIS, P. Digital divide: Civic Engagement, Information Poverty and the 
+Internet Woerldwide.Cambridge: Cambridge University Press. 2003.  
+
+__________ Preaching to the Converted? Pluralism, Participation and Party 
+websites. 
+Party Politics. 9(1): 21-46, 2013. 
+
+PAGE, B. Choice and echoes in presidential elections. Chicago. University of 
+Chicago, 1978. 
+
+PARMELEE, J.; BICHARD, S. Politics and the Twitter Revolution: 
+How Tweets Influence the Relationship between Political Leaders and the 
+Public.United Kingdom: Lexington Books, 2012. 
+
+PENTEADO, C. Facebook e Campanha Eleitoral Digital. Em Debate, Belo 
+Horizonte, v.4, n.4, p.41-53, jul. 2012. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+80 
+
+ROSSETTO, G; CARREIRO, R; ALMADA, M. Twitter e Comunicação 
+Política: limites e possibilidades. Revista Compolítica, 3(2), 2013, p.189-216. 
+
+RUCINSKI, D. The centrality of reciprocity to communication and democracy. 
+Critical Studies in Mass Communication, V.8, 1991. 
+
+RUSSELL, M. Mining the social web. Sebastopol, CA: O’Reilly, 2011. 
+
+SAMPAIO, R.; AZEVEDO, D.; ALMADA, M. P. Esfera civil e eleições 2010: 
+uma análise de iniciativas on-line para maior controle por parte da sociedade. In 
+
+STROMER-GALLEY, J. Online Interaction and Why Candidates Avoid It. 
+Journal of Comunication, V.50, 2000. 
+
+STROMER-GALLEY, J. Diversity of Political Conversation on the Internet: 
+User’s Perspective. Journal of Computer-Mediated Comunication, V.8, 2006. 
+
+STROMER-GALLEY, J. Presidential Campaigning in the Internet Age. New 
+York: Oxford University Press, 2014. 
+
+TOCQUEVILLE, A.: A democracia na América. Belo Horizonte: Itatiaia, 1987. 
+
+TOLEDO, G. Uma crítica à memética de Susan Blackmore. Revista de Filosofia 
+Aurora. Curitiba, v. 25, n. 36. 
+
+TSE. TRIBUNAL SUPERIOR ELEITORAL. Resolução nº 22.718. Brasília, 
+Brazil. 
+
+VACCARI, C. From the air to the ground: the internet in the 2004 US 
+presidential campaign. New Media & Society, V.10, 2008.  
+
+VACCARI, C.; NIELSEN, R.K. What Drives Politicians' Online Popularity? An 
+Analysis of the 2010 U.S. Midterm Elections. Journal of Information 
+Technology & Politics, 2013. 
+
+VACCARI, C.; NIELSEN, R.K.. Do people "like" politicians on Facebook? 
+Absolutely not. Journal of Information Technology & Politics, 2014. 
+
+VISSERS, S. From preaching to the converted to preaching through the 
+converted. ECPR Joint Sessions of Workshops 2009, Workshop Parliaments, 
+Parties, and Politicians in Cyberspace; Lisbon, April 14-19, 2009. 
+
+WALLACE C.; PICHLER, F.: More participation, happier society? A 
+comparative study of civic society and the quality of life. Social Indicator 
+Research, v.93, 2009. 
+
+WILLIAMS, A. P.; TRAMMELL, K. D. Candidate Campaign E-Mail 
+Menssages in the Presidential Election 2004. American Behavorioral Scientist, 
+V.49, 2005. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
